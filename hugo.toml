@@ -1,4 +1,4 @@
-baseURL = 'https://abdelhadi-haddadi.github.io/hugo-blog-app/'
+baseURL = 'https://abdelhadi-haddadi.github.io/'
 languageCode = 'en-us'
 title = 'dev blog'
 
