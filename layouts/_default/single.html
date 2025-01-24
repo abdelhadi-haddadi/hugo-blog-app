@@ -16,7 +16,15 @@
       </div>
       <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
     </div>
-    <img src={{ .Params.imageBig }} alt={{.Title}} class="singleHeadImg">
+    <img src="{{ .Params.imageBig }}" 
+     alt="{{ .Title }}"
+     class="singleHeadImg"
+     srcset="{{ .Params.imageBig }} 480w, /images/git-medium.webp 1024w, /images/git-large.webp 1920w"
+     sizes="(max-width: 480px) 480px, (max-width: 1024px) 1024px, 1920px">
+
+
+
+    
   </div>
   <div class="singleBottom">
     <div class="singleContent">{{ .Content }}</div>
