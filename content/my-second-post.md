@@ -1,7 +1,7 @@
 +++
 title = 'My Second Post'
 date = 2023-11-22T16:55:24+01:00
-draft = false
+draft = true
 description = "This is a description"
 image = "/images/2s.webp"
 imageBig = "/images/2b.webp"
