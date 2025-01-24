@@ -1,7 +1,17 @@
-# How to Configure Git Username and Email Address
++++
+title = 'How to Configure Git Username and Email Address'
+date = 2023-11-22T16:55:24+01:00
+draft = false
+description = "This guide explains how to configure your Git username and email address. It covers setting global values for all repositories and repository-specific values for individual projects. Properly configuring these settings ensures your commits are associated with the correct identity."
+image = "/images/git.webp"
+imageBig = "/images/git.webp"
+categories = ["Git"]
+authors = ["Close Roll"]
+avatar = "/images/avatar.webp"
++++
 
-*Updated on Dec 19, 2023*  
-*2 min read*
+
+
 
 ## Contents
 - [Setting Global Git Username and Email](#setting-global-git-username-and-email)
