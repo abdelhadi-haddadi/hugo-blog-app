@@ -1,15 +1,17 @@
 {{ define "main" }}
 <div class="list">
   {{ range .Paginator.Pages }}
-  <div class="listItem">
-    <img
-      src={{
-      .Params.image
-      }}
-      alt="{{.Title}}"
-      class="listItemImage"
-      loading="lazy"
-    />
+            {{ $imagePath := .Params.image }} 
+        {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
+          <div class="listImageContainer">
+            <img src="{{ $imagePath }}" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
+          </div>
+        {{ end }}
+
+
+
+
+    
     <div class="listItemTexts">
       <h1 class="listItemTitle">
         <a href="{{.Permalink}}">{{.Title}}</a>
