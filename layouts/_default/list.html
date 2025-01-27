@@ -1,13 +1,16 @@
+
+
+
 {{ define "main" }}
 <div class="list">
   {{ range .Paginator.Pages }}
-            {{ $imagePath := .Params.image }} 
+  <div class="listItem">
+                {{ $imagePath := .Params.image }} 
         {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
        
             <img src="{{ $imagePath }}" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
 
         {{ end }}
-
 
 
 
