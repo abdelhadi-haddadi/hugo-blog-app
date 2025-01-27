@@ -1,7 +1,7 @@
 +++
 title = 'Introduction to Machine Learning with Python'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Discover the basics of machine learning and how to implement it using Python."
 image = "/images/ml-s.webp"
 imageBig = "/images/ml-b.webp"
