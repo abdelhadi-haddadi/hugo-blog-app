@@ -1,7 +1,7 @@
 +++
 title = 'A Beginner’s Guide to Git and GitHub'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Learn the basics of Git and GitHub to manage your code effectively."
 image = "/images/git-s.webp"
 imageBig = "/images/git-b.webp"
