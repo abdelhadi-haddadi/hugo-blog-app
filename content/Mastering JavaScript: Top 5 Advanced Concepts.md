@@ -1,7 +1,7 @@
 +++
 title = 'Mastering JavaScript: Top 5 Advanced Concepts'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Explore advanced JavaScript concepts like closures, promises, and async/await."
 image = "/images/js-s.webp"
 imageBig = "/images/js-b.webp"
