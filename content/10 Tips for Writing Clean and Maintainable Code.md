@@ -5,7 +5,7 @@ draft = false
 description = "Learn how to write clean and maintainable code with these 10 practical tips."
 image = "/images/clean-code-s.webp"
 imageBig = "/images/clean-code-b.webp"
-categories = ["coding", "best-practices"]
+categories = ["coding"]
 authors = ["Lama Dev"]
 avatar = "/images/avatar.webp"
 +++
