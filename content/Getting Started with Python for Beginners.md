@@ -1,7 +1,7 @@
 +++
 title = 'Getting Started with Python for Beginners'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "A beginner-friendly guide to learning Python programming from scratch."
 image = "/images/python-s.webp"
 imageBig = "/images/python-b.webp"
