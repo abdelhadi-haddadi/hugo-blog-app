@@ -3,9 +3,9 @@
   {{ range .Paginator.Pages }}
             {{ $imagePath := .Params.image }} 
         {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
-          <div class="listImageContainer">
+       
             <img src="{{ $imagePath }}" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
-          </div>
+
         {{ end }}
 
 
