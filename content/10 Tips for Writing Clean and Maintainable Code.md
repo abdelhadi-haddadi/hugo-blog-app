@@ -1,7 +1,7 @@
 +++
 title = '10 Tips for Writing Clean and Maintainable Code'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Learn how to write clean and maintainable code with these 10 practical tips."
 image = "/images/clean-code-s.webp"
 imageBig = "/images/clean-code-b.webp"
