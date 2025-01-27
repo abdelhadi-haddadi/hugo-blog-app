@@ -1,7 +1,7 @@
 +++
 title = 'Top 10 VS Code Extensions for Developers'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Boost your productivity with these must-have VS Code extensions."
 image = "/images/vscode-ext-s.webp"
 imageBig = "/images/vscode-ext-b.webp"
