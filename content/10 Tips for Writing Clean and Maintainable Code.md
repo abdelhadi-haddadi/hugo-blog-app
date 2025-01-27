@@ -6,7 +6,7 @@ description = "Learn how to write clean and maintainable code with these 10 prac
 image = "/images/clean-code-s.webp"
 imageBig = "/images/clean-code-b.webp"
 categories = ["coding"]
-authors = ["Lama Dev"]
+authors = ["Admin"]
 avatar = "/images/avatar.webp"
 +++
 Writing clean and maintainable code in PHP follows the same principles as in other programming languages. Here are **10 tips tailored specifically for PHP** to help you write clean, readable, and maintainable code:
