@@ -1,7 +1,7 @@
 +++
 title = 'Understanding REST APIs: A Comprehensive Guide'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Learn what REST APIs are, how they work, and how to build one."
 image = "/images/rest-api-s.webp"
 imageBig = "/images/rest-api-b.webp"
