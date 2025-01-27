@@ -1,7 +1,7 @@
 +++
 title = 'How to Optimize Your SQL Queries for Performance'
 date = 2023-11-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Learn how to write efficient SQL queries to improve database performance."
 image = "/images/sql-s.webp"
 imageBig = "/images/sql-b.webp"
