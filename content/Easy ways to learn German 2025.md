@@ -1,7 +1,7 @@
 +++
 title = 'Easy ways to learn German 2025'
 date = 2025-01-22T16:55:24+01:00
-draft = true
+draft = false
 description = "Here’s a concise resume of your German learning method: Set Goals: Define your purpose and set achievable milestones. Learn Basics: Master pronunciation, common phrases, and basic grammar. Use Apps: Leverage tools like Duolingo, Babbel, or Memrise. Immerse Yourself: Engage with German music, shows, and simple texts. Practice Speaking: Use language exchange apps or work with a tutor. Study Grammar: Focus on noun genders, verb conjugations, and cases. Build Vocabulary: Learn high-frequency words and use flashcards. Stay Consistent: Practice daily with varied activities. Join Communities: Connect with learners online or locally. Test Yourself: Track progress with online tests or official exams."
 image = "/images/5s.webp"
 imageBig = "/images/5b.webp"
