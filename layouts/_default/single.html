@@ -16,11 +16,14 @@
       </div>
       <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
     </div>
-    <img src="{{ .Params.imageBig }}" 
-     alt="{{ .Title }}"
-     class="singleHeadImg">
 
 
+            {{ $imagePath := .Params.imageBig }} 
+        {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
+          <div class="listImageContainer">
+            <img src="{{ $imagePath }}" alt="{{ .Title }}" class="singleHeadImg" loading="lazy" />
+          </div>
+        {{ end }}
 
     
   </div>
