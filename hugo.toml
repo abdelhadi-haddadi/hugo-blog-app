@@ -8,6 +8,7 @@ paginate = 4
   description = "Tutorials, Free Online Tutorials, Closeroll provides tutorials and interview questions of all technology like java tutorial, android, java frameworks, javascript, ajax, core java, sql, python, php, c language etc. for beginners and professionals."
   dateFormat = "Jan 2, 2006"
   keywords = "Closeroll, java tutorial, core java tutorial, beginners, professionals"
+  title = 'Close Rol'
   
 
 [taxonomies]
