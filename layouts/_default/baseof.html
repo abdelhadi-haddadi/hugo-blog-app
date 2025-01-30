@@ -17,12 +17,7 @@
       <title>{{ .Title }}</title>
    </head>
    <body>
-      {{ or .Params.keywords .Site.Params.keywords }}
-
-      {{ .Site.Params.keywords }}
-{{ .Keywords }}
-      {{ or .Params.keywords  }}
-      {{ printf "%s" .Params.keywords }}
+{{ with .Keywords }}<meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
       <div class="container">
          {{ partial "navbar" . }}
          {{ block "main" . }} {{ end }}
