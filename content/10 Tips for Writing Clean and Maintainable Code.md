@@ -8,7 +8,7 @@ imageBig = "/images/clean-code-b.webp"
 categories = ["coding"]
 authors = ["Admin"]
 avatar = "/images/avatar.webp"
-keywords= "Admin, Code, Dashboard, Website"
+keywords= "Learn how to write clean and maintainable code with these 10 practical tips."
 +++
 Writing clean and maintainable code in PHP follows the same principles as in other programming languages. Here are **10 tips tailored specifically for PHP** to help you write clean, readable, and maintainable code:
 
