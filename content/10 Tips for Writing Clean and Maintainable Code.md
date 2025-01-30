@@ -3,12 +3,13 @@ title = '10 Tips for Writing Clean and Maintainable Code'
 date = 2023-11-22T16:55:24+01:00
 draft = false
 description = "Learn how to write clean and maintainable code with these 10 practical tips."
+keywords = "Closeroll, java tutorial, core java tutorial, beginners, professionals"
 image = "/images/clean-code-s.webp"
 imageBig = "/images/clean-code-b.webp"
 categories = ["coding"]
 authors = ["Admin"]
 avatar = "/images/avatar.webp"
-keywords = "Learn how to write clean and maintainable code with these 10 practical tips."
+
 +++
 Writing clean and maintainable code in PHP follows the same principles as in other programming languages. Here are **10 tips tailored specifically for PHP** to help you write clean, readable, and maintainable code:
 
