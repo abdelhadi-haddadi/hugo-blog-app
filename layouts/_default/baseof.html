@@ -10,14 +10,11 @@
         <meta name="google-adsense-account" content="ca-pub-6917511485346336" />
         <link rel="stylesheet" href="/styles/style.css" />
         <link rel="icon" href="/images/favicon.png" />
-{{ with .Params.keywords }}
-  <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" />
-{{ else }}
-
-    <meta name="keywords" content="{{ .Site.Params.keywords }}" />
-
-{{ end }}
-
+        {{ with .Params.keywords }}
+        <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" />
+        {{ else }}
+        <meta name="keywords" content="{{ .Site.Params.keywords }}" />
+        {{ end }}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
