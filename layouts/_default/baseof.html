@@ -1,39 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-   <head>
-      <meta name="generator" content="Hugo 0.111.3">
-      <meta charset="UTF-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="description" content="{{ or .Params.description .Site.Params.description }}">
-      <meta name="google-site-verification" content="_R7HWpOKffzZjGMNtH0maEhjvDq7o7k1Q3yXVLMfNDE" />
-      <meta name="google-adsense-account" content="ca-pub-6917511485346336">
-      <link rel="stylesheet" href="/styles/style.css">
-      <link rel="icon" href="/images/favicon.png" />
-      <meta name="keywords" content="{{ or .Params.keywords .Site.Params.keywords }}">
-      
+    <head>
+        <meta name="description" content="{{ or .Params.description .Site.Params.description }}" />
+        <meta name="google-site-verification" content="_R7HWpOKffzZjGMNtH0maEhjvDq7o7k1Q3yXVLMfNDE" />
+        <meta name="google-adsense-account" content="ca-pub-6917511485346336" />
+        <link rel="stylesheet" href="/styles/style.css" />
+        <link rel="icon" href="/images/favicon.png" />
+        {{ with .Keywords }}
+          <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" />
+        {{ end }}
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+        <meta name="theme-color" content="#4CAF50" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta name="twitter:title" content="Closeroll - Tutorials" />
+        <meta name="twitter:description" content="{{ or .Params.description .Site.Params.description }}" />
+        <meta property="og:url" content="https://closeroll.eu" />
+        <meta property="og:site_name" content="Closeroll" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@closeroll" />
+        <meta name="twitter:domain" content="closeroll.eu" />
+        <meta name="twitter:creator" content="@closeroll" />
 
-      
-      <title>{{ .Title }}</title>
-   </head>
-   <body>
-{{ with .Keywords }}<meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}">{{ end }}
-      <div class="container">
-         {{ partial "navbar" . }}
-         {{ block "main" . }} {{ end }}
-         {{ partial "footer" . }}
-      </div>
-      <script src="/js/app.js"></script>
-      <!-- Google tag (gtag.js) -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4YRLE597K"></script>
-      <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag() {
-             dataLayer.push(arguments);
-         }
-         gtag("js", new Date());
-         
-         gtag("config", "G-N4YRLE597K");
-      </script>
-   </body>
+        <title>{{ .Title }}</title>
+    </head>
+    <body>
+        <div class="container">
+            {{ partial "navbar" . }} {{ block "main" . }} {{ end }} {{ partial "footer" . }}
+        </div>
+        <script src="/js/app.js"></script>
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-N4YRLE597K"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+            gtag("js", new Date());
+
+            gtag("config", "G-N4YRLE597K");
+        </script>
+    </body>
 </html>
