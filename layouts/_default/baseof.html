@@ -13,9 +13,9 @@
 {{ with .Params.keywords }}
   <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" />
 {{ else }}
-  {{ with .Site.Params.keywords }}
+
     <meta name="keywords" content="{{ .Site.Params.keywords }}" />
-  {{ end }}
+
 {{ end }}
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
