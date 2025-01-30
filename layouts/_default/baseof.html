@@ -22,7 +22,7 @@
       {{ .Site.Params.keywords }}
 {{ .Keywords }}
       {{ or .Params.keywords  }}
-      {{ .Params.keywords | join ", " }}
+      {{ printf "%s" .Params.keywords }}
       <div class="container">
          {{ partial "navbar" . }}
          {{ block "main" . }} {{ end }}
