@@ -14,7 +14,7 @@
         <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" />
         {{ else }} {{ with .Site.Params.keywords }}
         <meta name="keywords" content="{{ range $i, $e := . }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}" />
-        {{ end }} {{ end }} <meta name="keywords" content={{ delimit .Keywords " " }} />
+        {{ end }} {{ end }}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black" />
