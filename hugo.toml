@@ -1,13 +1,14 @@
 baseURL = 'https://closeroll.eu/'
 languageCode = 'en-us'
-title = 'dev blog'
+title = 'Close Rol - Tutorials'
 
 paginate = 4
 
 [params]
   description = "The fastest blog"
   dateFormat = "Jan 2, 2006"
+  keywords = "Closeroll, java tutorial, core java tutorial, beginners, professionals"
 
 [taxonomies]
   category = "categories"
-  author = "authors"
+  author = "admin"
