@@ -17,6 +17,11 @@
       <title>{{ .Title }}</title>
    </head>
    <body>
+      {{ or .Params.keywords .Site.Params.keywords }}
+
+      {{ .Site.Params.keywords }}
+
+      {{ or .Params.keywords  }}
       <div class="container">
          {{ partial "navbar" . }}
          {{ block "main" . }} {{ end }}
