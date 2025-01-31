@@ -14,7 +14,7 @@ avatar = "/images/avatar.webp"
 Like **PHP `echo`**, **PHP `print`** is a **language construct**. You **don't need to use parentheses** with it, though you can use them if you prefer.
 
 ### Syntax of PHP `print`:
-```php
+```phtml
 int print(string $arg)
 ```
 
@@ -32,7 +32,7 @@ The `print` statement can be used to print strings, multi-line strings, escape c
 
 File: `print1.php`
 
-```php
+```phtml
 <?php  
 print "Hello by PHP print ";  
 print ("Hello by PHP print()");  
@@ -53,7 +53,7 @@ Both `print` and `print()` can be used without any difference in behavior. ✅
 
 File: `print2.php`
 
-```php
+```phtml
 <?php  
 print "Hello by PHP print  
 this is multi line  
@@ -77,7 +77,7 @@ Just like `echo`, `print` ignores newlines in the code, printing everything on a
 
 File: `print3.php`
 
-```php
+```phtml
 <?php  
 print "Hello escape \"sequence\" characters by PHP print";  
 ?>  
@@ -97,7 +97,7 @@ The escape character `\"` lets you print the double quotes `"` inside the string
 
 File: `print4.php`
 
-```php
+```phtml
 <?php  
 $msg = "Hello print() in PHP";  
 print "Message is: $msg";    
