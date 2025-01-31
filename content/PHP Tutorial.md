@@ -51,13 +51,13 @@ PHP is an **open-source**, **interpreted**, and **object-oriented** scripting la
 ---
 
 ### **PHP Example 💻**  
-```php  
+```phtml
 <?php  
 echo "Hello, World!";  
 ?>  
 ```  
 **Output:**  
-```
+```bash
 Hello, World!  
 ```  
 
