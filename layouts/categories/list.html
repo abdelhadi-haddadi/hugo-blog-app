@@ -12,7 +12,7 @@
             {{ $imagePath := .Params.image }}
         {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
             <img
-              src="{{ "/images/" | relURL }}{{ $imagePath }}"
+              src="{{ $imagePath }}"
               alt="{{ .Title }}"
               class="listItemImage"
               loading="lazy"
