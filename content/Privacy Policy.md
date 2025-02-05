@@ -1,91 +1,76 @@
-✨ **Privacy Policy** ✨
++++
+title = 'Privacy Policy 🔒'
+date = 2023-11-22T16:55:24+01:00
+draft = false
+type = "static"
+description = ""
+keywords = ["Closeroll", "java tutorial", "core java tutorial", "beginners"]
+image = "/images/clean-code-s.webp"
+imageBig = "/images/clean-code-b.webp"
+categories = ["coding"]
+authors = ["Admin"]
+avatar = "/images/avatar.webp"
 
-**Jan 16, 2025**
++++
 
-At **closeroll.eu**, the privacy of our visitors is of extreme importance to us. ⚖️ All data collected through the use of our website is intended to be used as a means to better serve our current and future readers.
 
-This privacy policy document outlines the types of **personal information** that is received and collected by **closeroll.eu** and how it is used.
+# Privacy Policy 🔒
 
-If you require any more information or have any questions about our privacy policy, please feel free to **contact us** by email ✉️.
+This privacy policy covers several essential aspects related to the use of personal data and information by **Closeroll**:
 
----
+## 📥 Collection of Information
+### 🔹 Data Collected
+Closeroll collects personally identifiable information such as **names** and **email addresses** for communication purposes.
 
-### 📂 Types of Data Collected
-Among the types of **Personal Data** that this Website collects, by itself or through third parties, there are:
-- 🌟 Cookies
-- 🔢 Usage Data
-- 👤 First name & Last name
-- 📧 Email address
-- 🏠 Website
+### 💬 Comments Section
+Visitors can provide feedback via comments but need to submit their **name, email, and website** information.
 
-Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.
+## 🔄 Data Sharing
+### 🚫 No Sharing
+Closeroll **does not share** personal information with external parties. The data collected is solely used to improve services and gather feedback from the site.
 
-Users who are uncertain about which Personal Data is mandatory are welcome to contact the **Owner** ✨.
+## 🍪 Cookies
+### ⚙️ Usage
+Cookies are used to **enhance user experience**. However, personally identifiable information is **not stored** within cookies.
 
----
+Visitors can **disable cookies**, but they might face limitations in accessing the website's content.
 
-### 🔒 Mode and Place of Processing the Data
-#### 🔧 Methods of Processing
-The **Owner** takes appropriate **security measures** to prevent unauthorized access, disclosure, modification, or destruction of the Data ⚡️.
+## 📜 Source Code Copyrights
+### ⚠️ Restrictions
+Source code and content downloaded from Closeroll are for **personal education only**.
+Reposting or using this content for **commercial purposes** is **prohibited**.
 
-The Data processing is carried out using **computers and/or IT-enabled tools**, following organizational procedures and modes strictly related to the purposes indicated.
+## 📊 Analytics & Advertisement
+### 📉 Tools Used
+- **Google Analytics** is used to track user information.
 
-#### 🏢 Place
-The Data is processed at the Owner’s **operating offices** and in any other places where the parties involved in the processing are located.
+### 🔒 Data Collection
+Closeroll **does not collect** sensitive information such as:
+- 📞 Contact numbers
+- 💳 Credit/debit card details
+- 🏦 Banking information
 
----
+## 🎯 Third-Parties and Opt-Out
+### 🛒 Advertising
+Third parties **might display** interest-based advertising based on user behavior.
 
-### 📅 Retention Time
-**Personal Data** shall be processed and stored for as long as required by the purpose they have been collected for ⏳.
-- 📚 Data collected for contract performance: retained until fully performed.
-- 🔄 Data collected for **legitimate interests**: retained as long as needed.
+Opting out of interest-based advertising **doesn't eliminate online ads entirely** but stops tailored ads based on browsing habits.
 
-Once the retention period expires, Personal Data shall be **deleted** ❌.
+## 📜 Terms of Use
+### ✅ Acceptance
+Users accessing the **Closeroll website** are considered to **accept** the terms outlined in this privacy policy.
 
----
+Any **objections** should be addressed **before using** the website's services.
 
-### 💼 The Purposes of Processing
-Data is collected for:
-- 📈 **Analytics** (Google Analytics)
-- 🎨 **Advertising** (Raptive, Google Ads)
-- 💬 **Content commenting** (Disqus)
-- 🌐 **Caching & Performance** (Cloudflare)
-- ✉️ **Contacting the User** (MailChimp for newsletters)
+## 📩 Contact Information
+### 📧 Contact
+For questions or clarifications regarding the **privacy policy** or **terms of service**, users can reach out via email at **closeroll@gmail.com**.
 
----
+## 🔄 Updates
+### 📝 Subject to Change
+The privacy policy is **subject to change** without prior notice.
 
-### ⚖️ The Rights of Users
-Users may exercise the following rights:
-- 🚫 **Withdraw consent** at any time
-- ✉️ **Access their data**
-- 🔄 **Modify or update their data**
-- ❌ **Request data deletion**
-- 🌐 **Transfer their data to another provider**
-- 📝 **Lodge a complaint with data protection authorities**
+📅 **Last updated:** 04/01/2024
 
-To exercise any of these rights, contact us at **hello@closeroll.eu** ✨.
-
----
-
-### 🌟 Cookies
-A **cookie** is a small amount of data stored on your device when visiting a website. We use cookies for analytics, advertising, and website performance ☕.
-
-You can manage or disable cookies through your **browser settings** ⚙️.
-
----
-
-### 🔗 Links to Other Websites
-This website may contain **external links**. Once you leave our site, we are not responsible for the **privacy policies** of those websites ❌.
-
----
-
-### 🎉 Changes to This Policy
-We may periodically update this policy. **Stay informed** ✨.
-
----
-
-### 👤 Questions?
-Any questions about this **Privacy Policy**? Contact us at **hello@closeroll.eu** 📧.
-
-Thank you for visiting **closeroll.eu**! 🌟
+This policy covers **data collection, usage, and contact information**. However, ensure compliance with relevant **laws and regulations**, and consider consulting **legal counsel** to refine or validate the policy's accuracy and adherence to specific legal requirements.
 
