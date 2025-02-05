@@ -1,7 +1,6 @@
 {{ define "main" }}
 <div class="list">
    {{ range where .Pages "Type" "!=" "static" }}
-   {{ range .Paginator.Pages }}
    <div class="listItem">
       {{ $imagePath := .Params.image }} 
       {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
@@ -27,6 +26,5 @@
       </div>
    </div>
    {{ end }} {{ template "_internal/pagination.html" . }}
-   {{ end }}
 </div>
 {{ end }}
