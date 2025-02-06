@@ -2,10 +2,13 @@
 <div class="list">
    {{ range where .Pages "Type" "!=" "static" }}
    <div class="listItem">
-      {{ $imagePath := .Params.image }} 
+<!--       {{ $imagePath := .Params.image }} 
       {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
       <img src="{{ $imagePath }}" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
       {{ end }}
+ -->
+
+      <img data-src="holder.js/300x300?bg=#4B0082&fg=FFFFFF&text={{.Title}}" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
       <div class="listItemTexts">
          <h1 class="listItemTitle">
             <a href="{{.Permalink}}">{{.Title}}</a>
