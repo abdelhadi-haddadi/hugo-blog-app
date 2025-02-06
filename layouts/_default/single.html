@@ -18,12 +18,19 @@
     </div>
 
 
-            {{ $imagePath := .Params.imageBig }} 
+<!--             {{ $imagePath := .Params.imageBig }} 
         {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
           <div class="listImageContainer">
             <img src="{{ $imagePath }}" alt="{{ .Title }}" class="singleHeadImg" loading="lazy" />
           </div>
-        {{ end }}
+        {{ end }} -->
+          <div class="listImageContainer">
+            <img data-src="holder.js/650x400?bg=#4B0082&fg=FFFFFF&text={{.Title}}" alt="{{ .Title }}" class="singleHeadImg" loading="lazy" />
+          </div>
+    
+
+
+    
 
     
   </div>
