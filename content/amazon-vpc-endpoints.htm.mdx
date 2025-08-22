@@ -1,0 +1,45 @@
++++
+title = "Amazon VPC - Endpoints"
+date = "2025-08-22"
+draft = false
+description = "Amazon VPC Endpoint allows the users to connect their VPC in private to the supported AWS services and to the VPC endpoint services that are powered by AES PrivateLink, without requiring an Internet Gateway, NAT device, VPN connection, or AWS Direct Connect. "
+image = "/images/php.jpg"
+imageBig = "/images/php.jpg"
+categories = ["Tutorial"]
+authors = ["Cude Admin"]
+avatar = "/images/avatar.webp"
++++
+
+# Amazon VPC - Endpoints
+
+URL: https://www.tutorialspoint.com/amazon-vpc/amazon-vpc-endpoints.htm
+
+Amazon VPC Endpoint allows the users to connect their VPC in private to the supported AWS services and to the VPC endpoint services that are powered by AESPrivateLink, without requiring an Internet Gateway, NAT device, VPN connection, or AWS Direct Connect.
+
+VPC endpoints provide a more secure and efficient way to interact with AWS services because all traffic between your VPC and the services remains within the AWS network.
+
+There are two types of VPC Endpoints −
+
+These VPC endpoints create an elastic network interface in your subnet that connects to services via AWSPrivateLink. Examples of supported services include Amazon S3, DynamoDB, and many others.
+
+These VPC endpoints are for specific AWS services such as Amazon S3 and DynamoDB. They are more like route table entries that direct traffic from your VPC to the specified AWS service.
+
+The process of setting up and using VPC Endpoints in your VPC is very simple. Follow the steps given below −
+
+First, you need to sign in to theAWS Management Console. In the search bar, typeVPC, and selectVPC Dashboard.
+
+Now, check the left-hand navigation pane. Click onEndpointsunderVirtual Private Cloud. To create VPC endpoints, click theCreate Endpointbutton.
+
+Now, in theService Namesection you need to select the AWS service you want to connect to. For example,Amazon S3orDynamoDB.
+
+Now, go to theVPCsection and select the VPC in which you want to create the endpoint.
+
+First, choose thesubnetsin which you want the interface for the endpoint to be created. It is only for Interface Endpoints.
+
+For Gateway Endpoints, you need to choose route tables instead of subnets, which will add the endpoint as a route in your route table.
+
+Once you have set the configurations, click theCreate Endpointbutton. Amazon AWS will create the VPC Endpoint, and youll see it in theEndpointslist.
+
+This step is required if you are creating aGateway Endpoint.
+
+First, go toRoute Tablesin the VPC Dashboard. Find the route table associated with the subnets that need access to the service. Finally, add a route for the selected AWS service pointing to theVPC Gateway Endpoint.

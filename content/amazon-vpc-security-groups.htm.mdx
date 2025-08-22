@@ -1,0 +1,57 @@
++++
+title = "Amazon VPC - Security Groups"
+date = "2025-08-22"
+draft = false
+description = "In Amazon Virtual Private Cloud (VPC), security is the most important factor to protect your resources from unauthorized access."
+image = "/amazon-vpc/images/access-the-amazon-vpc-console.jpg"
+imageBig = "/amazon-vpc/images/access-the-amazon-vpc-console.jpg"
+categories = ["Tutorial"]
+authors = ["Cude Admin"]
+avatar = "/images/avatar.webp"
++++
+
+# Amazon VPC - Security Groups
+
+URL: https://www.tutorialspoint.com/amazon-vpc/amazon-vpc-security-groups.htm
+
+In Amazon Virtual Private Cloud (VPC), security is the most important factor to protect your resources from unauthorized access.
+
+AWS provides the following two main layers of security for your VPC network −
+
+Both these components work together to control the traffic that enters and exits your VPC. They ensure a strict security configuration for your cloud infrastructure. You can also customize the security settings as per your needs.
+
+In this chapter, we will focus on Security Groups and in the next chapter, we will discuss how you can configure your Network Access Control Lists.
+
+Security Groupsact as a virtual firewall for your instances in VPC. It controls both inbound and outbound traffic.
+
+In this section, we will provide a step-by-step guide to configuring Security Groups for your VPC −
+
+First, click on the linkhttps://aws.amazon.com/console/to go to the AWS Console. Next, login using your credentials to log in to your AWS account and go to VPC dashboard.
+
+Then, underSecurity, clickSecurity Groups.
+
+For creating a new Security Group, click theCreate Security Groupbutton. Next, enter anameanddescriptionfor your Security Group.
+
+Now, you need to select theVPCwhere you want to apply this Security Group.
+
+Inbound rules specify the types of traffic allowed into your instance. To add an inbound rule, follow the steps −
+
+First, underInbound Rules, clickAdd Rule. Select thetype of traffic(e.g., HTTP, SSH, MySQL) from the dropdown menu.
+
+Next, you need to specify the source IP range or address for the traffic. You can also add multiple inbound rules as needed for different types of traffic.
+
+Outbound rules control the traffic that leaves your instance. By default, Security Groups allow all outbound traffic. But you can also specify outbound rules if you want to restrict outgoing connections. Follow the steps given below −
+
+First, underOutbound Rules, clickAdd Rule. Next, select thetype of trafficanddestinationfor outbound connections.
+
+First, review your inbound and outbound rules to ensure they meet your security requirements. To save your settings, clickCreate Security Group.
+
+Once your Security Group is created, you must attach it to your EC2 instances −
+
+First, go to theEC2 Dashboard. Select theinstanceto which you want to assign the Security Group. UnderActions, clickNetworking > Change Security Groups.
+
+Finally, select theSecurity Groupyou just created and clickAssign Security Groups.
+
+![Image](/amazon-vpc/images/access-the-amazon-vpc-console.jpg)
+![Image](/amazon-vpc/images/create-a-new-security-group.jpg)
+![Image](/amazon-vpc/images/configure-outbound-rules.jpg)

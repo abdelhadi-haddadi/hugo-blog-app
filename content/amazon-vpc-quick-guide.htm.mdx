@@ -1,0 +1,285 @@
++++
+title = "Amazon VPC - Quick Guide"
+date = "2025-08-22"
+draft = false
+description = "Amazon Virtual Private Cloud (VPC) is a key feature of Amazon Web Services (AWS) that allows you to set up your own isolated network within the AWS cloud."
+image = "/amazon-vpc/images/types-of-subnets.jpg"
+imageBig = "/amazon-vpc/images/types-of-subnets.jpg"
+categories = ["Tutorial"]
+authors = ["Cude Admin"]
+avatar = "/images/avatar.webp"
++++
+
+# Amazon VPC - Quick Guide
+
+URL: https://www.tutorialspoint.com/amazon-vpc/amazon-vpc-quick-guide.htm
+
+Amazon Virtual Private Cloud (VPC) is a key feature of Amazon Web Services (AWS) that allows you to set up your own isolated network within the AWS cloud.
+
+In simple words, Amazon VPC acts like a personal data center in the cloud that allows you to build your applications and services in a secure and controlled environment.
+
+Amazon VPC has various features that enable businesses to securely and efficiently manage their cloud infrastructure.
+
+Listed below are some of the key features of Amazon VPC −
+
+Flow logs is a feature that allows you to capture and monitor network traffic within your VPC. It enables you to monitor both incoming and outgoing traffic which helps you understand the flow of information in your network and detect any suspicious activity.
+
+IPAM is a feature that allows you to plan, manage, and monitor IP addresses across your AWS environment. With the help of IPAM, you can automate IP address assignment.
+
+IPAM prevents IP conflicts and ensures that your resources have the right IP address available when needed.
+
+Amazon VPC supports both IPv4 and IPv6 addressing. Thats how it enables your applications to communicate using the latest internet protocol. It gives you the option to use Amazon provided public IPv4 addresses, Elastic IPv4 addresses, or an IP address from the Amazon provided IPv6 subnet CIDR. You can also use your own IPv4 or IPv6 addresses within the Amazon VPC.
+
+This feature allows you to control how all incoming and outgoing traffic to your Amazon VPC is routed. It enables you to direct the traffic to specific endpoints like firewalls, before it reaches your business workloads.
+
+Ingress Routing enhances network security, enable traffic filtering, monitoring, and load balancing.
+
+AWS direct connect feature, as name implies, provides a dedicated and private connection between your on-premises data center and AWS. It bypasses the public internet hence gives more consistent network performance and enhance security for sensitive data.
+
+Amazon VPC reachability analyzer is a network diagnostic tool with the help of which you can analyze and troubleshoot network connectivity issues within your VPC. Its main role is to examine network paths between two endpoints such as EC2 instances, and check whether they are accessible or not.
+
+If there is an issue with connectivity, then the Reachability Analyzer identifies the blocking component like security groups, network access control lists (ACLs), or route tables.
+
+It is an optional layer of security for your VPC. It actually acts as a firewall that controls traffic of one or more subnets. You can set ACLs with the same rule you use to set your security groups in VPC.
+
+This feature allows you to control in and out traffic at the instance level such as Amazon EC2 instances. It also acts as a firewall. It is recommended to associate your Amazon instance with one or more security groups. If you do not specify a group, your instance will automatically associate with the VPCs default group.
+
+Amazon Virtual Private Cloud (VPC) allows you to set up your own isolated network within the AWS cloud. It is just like a traditional on-premises network setup.
+
+With the help of Amazon VPC, you can securely connect your AWS resources like EC2 instances in a logically isolated section of the AWS cloud. It is important to understand the key components of Amazon VPC to set up and manage your cloud infrastructure efficiently.
+
+The key components of Amazon VPC include Subnets, Route Tables, Internet Gateways, and NAT Gateways. In this chapter, lets understand these important components in detail −
+
+Subnets are basically subdivisions within a VPC that allow you to organize and manage your resources. In other words, a subnet is a range of IP addresses in your VPC.
+
+You launch your AWS resources in your subnet. Every subnet must be in just one Availability Zone (AZ), and they cannot cross over to other AZs. Keeping your resources in different AZs protects your application from failure of a single AZ.
+
+Subnets can be categorized in the following four categories based on how you configure routing for your subnets −
+
+See the following diagram to better understand the working and placement of these key components in Amazon VPC.
+
+Another key component of VPC is Route Tables. The main aim of route tables is to determine the route of the traffic within a VPC. Route Tables contains a set of rules or routes that specify the path for network traffic.
+
+When an instance such as Amazon EC2 in a subnet receives traffic, the route table, based on the destination IP address, will decide where that traffic should go.
+
+A VPC may have the following Route Tables −
+
+An Internet Gateway allows communication between the resources in your VPC and the internet. As the name implies, it acts as a gateway to route the traffic from public subnets to the internet and from the internet to your instances in public subnets.
+
+Two major concernswith Internet Gateways in VPC are −
+
+A NAT gateway is a Network Address Translation (NAT) service that provides access to resources within a private subnet.
+
+NAT allows instances like Amazon EC2 instance, in a private subnet to send outbound traffic to the internet for downloading software updates or connecting to external APIs. At that time, they block the inbound internet traffic from initiating a connection to those resources.
+
+In this chapter, let's understand the steps that you can follow to create your own custom Amazon Virtual Private Cloud (VPC) using AWS Management Console.
+
+A custom VPC allows users to have full control over their networking environment, including subnets, route tables, and gateways.
+
+First, click on the linkhttps://aws.amazon.com/console/to go to the AWS Console. Next, login using your credentials to log in to your AWS account.
+
+At the front page of your AWS console, type "VPC" in the search bar at the top and select the "VPC" service from the dropdown.
+
+At the VPC Dashboard, click on the"Create VPC"button to start the process of creating your own VPC.
+
+In the "Create VPC" wizard, choose the"VPC Only"option. This allows you to configure your VPCs CIDR block and other settings manually.
+
+You first need to give your VPC a descriptive name (e.g., "MyCustomVPC"). Next, select the IPv4 CIDR block for your VPC. For example, you can use 10.0.0.0/16 to create a large range of IP addresses for your VPC.
+
+It is optional but if you want to useIPv6, you can enable it, and Amazon will automatically assign anIPv6 CIDR block.
+
+Now you have an option to choose between"Default"or"Dedicated"tenancy. Default tenancy allows shared tenancy across instances. Dedicated tenancy assigns instances to hardware reserved for your account.
+
+Once you have configured all these settings, you can click on the"Create VPC"button at the bottom of the page.
+
+Subnets allow you to divide your VPC into smaller networks. Go to the "Subnets" section of the VPC Dashboard and click"Create Subnet".
+
+Next, you need to choose a name for the subnet and select an Availability Zone (e.g., us west 1a) for it to reside in. Each subnet must be in one Availability Zone.
+
+Then, define a CIDR Block for the Subnet. Try to choose a smaller range from the main VPC CIDR block (e.g., 10.0.1.0/24) for the subnet.
+
+You can repeat the above steps if you need multiple subnets.
+
+First, we will create an Internet Gateway. On VPC dashboard, go to the"Internet Gateways"section and click"Create Internet Gateway". Once created, now attach the Internet Gateway to your VPC by selecting the gateway and choosing"Attach to VPC".
+
+Once you set up Subnets and Internet Gateways, you need to set up route tables. Go to the"Route Tables"section and click"Create Route Table". Next, you need to assign the route table to the subnet you created in the above step.
+
+Finally, add a route to direct traffic through the Internet Gateway. For example, add a route for 0.0.0.0/0 and point it to your Internet Gateway.
+
+Now, you need to create Security Groups. For this, first go to the"Security Groups"section and then create a group that defines what type of traffic is allowed to and from resources in your VPC.
+
+After creating Security Groups, you need to specify rules to control access, like allowing HTTP and HTTPS traffic on specific ports.
+
+Now your VPC is set up, you can start launching AWS resources like EC2 instances within your VPC.
+
+First, launch EC2 Instances by clicking on the EC2 section and selecting"Launch Instance". Next, choose one of the subnets you created in your VPC.
+
+After launching the EC2 instance, it is time to test the connectivity to ensure that everything is working as expected. If your Internet Gateway and route table correctly set up, your instances should have internet access.
+
+Subnets are subdivisions within a VPC that allow you to organize and manage your resources. In simple words, Subnets allow you to divide your VPC into smaller networks. While creating your custom VPC, it is one of the important steps to configure subnets.
+
+In a broader sense, we can divide subnets into two categories, namely,Private SubnetsandPublic Subnets. To use Amazon VPC, you must have a clear understanding of these subnets.
+
+The following table highlights the differences between Public and Private Subnets −
+
+Public Subnets are ideal for −
+
+Private Subnets are ideal for −
+
+In Amazon Virtual Private Cloud (VPC), security is the most important factor to protect your resources from unauthorized access.
+
+AWS provides the following two main layers of security for your VPC network −
+
+Both these components work together to control the traffic that enters and exits your VPC. They ensure a strict security configuration for your cloud infrastructure. You can also customize the security settings as per your needs.
+
+In this chapter, we will focus on Security Groups and in the next chapter, we will discuss how you can configure your Network Access Control Lists.
+
+Security Groupsact as a virtual firewall for your instances in VPC. It controls both inbound and outbound traffic.
+
+In this section, we will provide a step-by-step guide to configuring Security Groups for your VPC −
+
+First, click on the linkhttps://aws.amazon.com/console/to go to the AWS Console. Next, login using your credentials to log in to your AWS account and go to VPC dashboard.
+
+Then, underSecurity, clickSecurity Groups.
+
+For creating a new Security Group, click theCreate Security Groupbutton. Next, enter anameanddescriptionfor your Security Group.
+
+Now, you need to select theVPCwhere you want to apply this Security Group.
+
+Inbound rules specify the types of traffic allowed into your instance. To add an inbound rule, follow the steps −
+
+First, underInbound Rules, clickAdd Rule. Select thetype of traffic(e.g., HTTP, SSH, MySQL) from the dropdown menu.
+
+Next, you need to specify the source IP range or address for the traffic. You can also add multiple inbound rules as needed for different types of traffic.
+
+Outbound rules control the traffic that leaves your instance. By default, Security Groups allow all outbound traffic. But you can also specify outbound rules if you want to restrict outgoing connections. Follow the steps given below −
+
+First, underOutbound Rules, clickAdd Rule. Next, select thetype of trafficanddestinationfor outbound connections.
+
+First, review your inbound and outbound rules to ensure they meet your security requirements. To save your settings, clickCreate Security Group.
+
+Once your Security Group is created, you must attach it to your EC2 instances −
+
+First, go to theEC2 Dashboard. Select theinstanceto which you want to assign the Security Group. UnderActions, clickNetworking > Change Security Groups.
+
+Finally, select theSecurity Groupyou just created and clickAssign Security Groups.
+
+Network Access Control Lists (NACLs)provide another layer of security but at the subnet level. Unlike Security Groups, NACLs are stateless, meaning that each request and response must be explicitly allowed by separate rules.
+
+Given below is a step-by-step guide to configuring NACLs for your VPC −
+
+First, click on the linkhttps://aws.amazon.com/console/to go to the AWS Console. Login using your credentials to log in to your AWS account and go to VPC dashboard. UnderSecurity, click on Network ACLs.
+
+Click theCreate Network ACLbutton. First, you need to provide anamefor your NACL. Now, choose theVPCwhere the NACL will be applied. Finally, clickCreate.
+
+Once your NACL is created, you need to associate it with one or more subnets.
+
+First, select theNACLyou just created. Next, click on the Subnet Associations tab, then click Edit Subnet Associations. Finally, select the subnets where you want to apply the NACL and clickSave.
+
+Inbound rules control the traffic that is allowed into the subnet. You need to define the rules for each type of traffic you want to allow or deny.
+
+First, under Inbound Rules, click Edit Inbound Rules. Next, clickAdd Ruleand define the following for each rule:
+
+Outbound rules control the traffic that is allowed to leave the subnet.
+
+UnderOutbound Rules, click Edit Outbound Rules. ClickAdd Ruleand define the rule parameters −
+
+Once you have configured your inbound and outbound rules, click theSavebutton to apply the changes.
+
+Flow logs is a feature that allows you to capture and monitor network traffic within your VPC. It enables you to monitor both incoming and outgoing traffic which helps you understand the flow of information in your network and detect any suspicious activity.
+
+VPC Flow Logs mainly record the following details −
+
+Follow the steps given below to enable VPC Flow Logs for monitoring network traffic in your VPC −
+
+First you need to sign in to AWS Management Console. Next, in the search bar, typeVPC, and selectVPC Dashboardfrom the dropdown list.
+
+From the left-hand navigation pane chooseYour VPCs. You need to select the VPC for which you want to enable Flow Logs.
+
+Click theActionsbutton and from the dropdown menu, selectCreate Flow Log.
+
+From theCreate Flow Logwe need to configure several settings to control what data the Flow Logs will capture.
+
+Lets see what to and how to configure −
+
+Once you have configured everything, clickCreate Flow Log.
+
+ForCloudWatch, follow the steps given below −
+
+ForAmazon S3, follow the steps given below −
+
+Amazon VPC Endpoint allows the users to connect their VPC in private to the supported AWS services and to the VPC endpoint services that are powered by AESPrivateLink, without requiring an Internet Gateway, NAT device, VPN connection, or AWS Direct Connect.
+
+VPC endpoints provide a more secure and efficient way to interact with AWS services because all traffic between your VPC and the services remains within the AWS network.
+
+There are two types of VPC Endpoints −
+
+These VPC endpoints create an elastic network interface in your subnet that connects to services via AWSPrivateLink. Examples of supported services include Amazon S3, DynamoDB, and many others.
+
+These VPC endpoints are for specific AWS services such as Amazon S3 and DynamoDB. They are more like route table entries that direct traffic from your VPC to the specified AWS service.
+
+The process of setting up and using VPC Endpoints in your VPC is very simple. Follow the steps given below −
+
+First, you need to sign in to theAWS Management Console. In the search bar, typeVPC, and selectVPC Dashboard.
+
+Now, check the left-hand navigation pane. Click onEndpointsunderVirtual Private Cloud. To create VPC endpoints, click theCreate Endpointbutton.
+
+Now, in theService Namesection you need to select the AWS service you want to connect to. For example,Amazon S3orDynamoDB.
+
+Now, go to theVPCsection and select the VPC in which you want to create the endpoint.
+
+First, choose thesubnetsin which you want the interface for the endpoint to be created. It is only for Interface Endpoints.
+
+For Gateway Endpoints, you need to choose route tables instead of subnets, which will add the endpoint as a route in your route table.
+
+Once you have set the configurations, click theCreate Endpointbutton. Amazon AWS will create the VPC Endpoint, and youll see it in theEndpointslist.
+
+This step is required if you are creating aGateway Endpoint.
+
+First, go toRoute Tablesin the VPC Dashboard. Find the route table associated with the subnets that need access to the service. Finally, add a route for the selected AWS service pointing to theVPC Gateway Endpoint.
+
+Amazon VPC Peeringconnection is a networking connection that allows you to establish communication between two Virtual Private Clouds (VPCs) in the AWS network.
+
+VPC Peering connection uses private IPv4 or IPv6 addresses. This connection allows instances in different VPCs to communicate with each other as if they are in the same network. AWS allows us to create a VPC peering connection between your own VPCs or between different AWS accounts.
+
+The following diagram shows a VPC peering connection between two Virtual Private Clouds −
+
+VPC Peering is highly secure because the traffic between the VPCs stays within the AWS network. They do not need to traverse the public internet.
+
+Follow the steps below to set up a VPC Peering connection −
+
+First, sign in to AWS Management Console and then navigate to theVPC Dashboard. On the left-hand side, selectPeering Connectionsunder thePeeringsection.
+
+Click on theCreate Peering Connectionbutton. In the form, select theRequester VPC. You also need to specify theAccepter VPC. You can choose a VPC within your AWS account or enter the VPC ID from another AWS account.
+
+Once done, click theCreate Peering Connectionbutton.
+
+Once the peering connection is created, go to thePeering Connectionssection in the VPC dashboard. Now, find the newly created peering connection.
+
+Nest, select the peering connection and clickActions > Accept Request. After the request is accepted, the status will change toActive.
+
+If the accepter VPC is in another account, the owner of the accepter VPC will need to log in to their account to accept the request.
+
+Once the peering connection is established, we need to update the route tables in both VPCs to allow traffic to flow between them. Follow the steps below to modify the route tables:
+
+To modify the route table, first go to theRoute Tablessection. From there, choose the route table associated with thesubnetsthat need to communicate with the other VPC.
+
+ClickEdit Routes, then clickAdd Route. In theDestinationfield, enter theCIDR blockof the peer VPC. In theTargetfield, selectPeering Connectionand choose the relevant peering connection. Finally, to apply the changes, clickSave Routes.
+
+Repeat the above steps in the other VPC, updating its route tables to allow traffic to flow back to the original VPC.
+
+After modifying the Route Tables, we need to update the Security groups in both VPCs. Follow the steps given below to modify security groups −
+
+In the VPC dashboard, go toSecurity Groups.
+
+Select the security group associated with the resources that will communicate with the peer VPC. ClickEdit Inbound Rulesand add a rule to allow traffic from the CIDR block of the peer VPC. Similarly,edit the outbound rulesto allow traffic to the peer VPC.
+
+To test the VPC Peering connection, try pinging an instance in the peer VPC or establish a connection.
+
+![Image](/amazon-vpc/images/types-of-subnets.jpg)
+![Image](/amazon-vpc/images/create-a-custom-vpc.jpg)
+![Image](/amazon-vpc/images/configure-subnets.jpg)
+![Image](/amazon-vpc/images/access-the-amazon-vpc-console.jpg)
+![Image](/amazon-vpc/images/create-a-new-security-group.jpg)
+![Image](/amazon-vpc/images/configure-outbound-rules.jpg)
+![Image](/amazon-vpc/images/what-is-vpc-peering.jpg)

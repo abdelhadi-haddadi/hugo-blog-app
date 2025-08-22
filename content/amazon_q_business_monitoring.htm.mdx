@@ -1,0 +1,41 @@
++++
+title = "Amazon Q Business - Monitoring"
+date = "2025-08-22"
+draft = false
+description = "Monitoring is crucial for ensuring the reliability, availability, and performance of Amazon Q Business and other AWS solutions. AWS offers following monitoring tools to track Amazon Q Business, detect issues, and trigger automatic actions when needed."
+image = "/images/php.jpg"
+imageBig = "/images/php.jpg"
+categories = ["Tutorial"]
+authors = ["Cude Admin"]
+avatar = "/images/avatar.webp"
++++
+
+# Amazon Q Business - Monitoring
+
+URL: https://www.tutorialspoint.com/amazon-q/amazon_q_business_monitoring.htm
+
+Monitoring is crucial for ensuring the reliability, availability, and performance of Amazon Q Business and other AWS solutions. AWS offers following monitoring tools to track Amazon Q Business, detect issues, and trigger automatic actions when needed.
+
+Amazon Q Business Logging Amazon Q Business API calls using AWS CloudTrail captures all API calls for Amazon Q Business as events. The calls captured include calls from the Amazon Q console and code calls to the Amazon Q API. This allows you to track API calls made by or on behalf of your AWS account.
+
+A trail is a configuration that enables delivery of events as log files to an Amazon S3 bucket that you specify. CloudTrail log files contain one or more log entries. An event represents a single request from any source and includes information about the requested action, the date and time of the action, request parameters, and so on.
+
+Here is an example of a CloudTrail log entry that demonstrates the CreateApplication action:
+
+Amazon Q Apps is integrated with AWS CloudTrail, a service that records actions taken by users, roles, or AWS services. CloudTrail captures all API calls to Amazon Q Apps as events, including calls from the web experience, console, and code calls to API operations.
+
+A trail is a setup that sends event logs to an Amazon S3 bucket you choose. These log files contain one or more log entries, each representing a single request with details like the action, date, time, and request parameters. Note that these log files don't show the API calls in a specific order, but rather as individual events.
+
+The following example shows a CloudTrail log entry that demonstrates the GetLibraryItem action.
+
+You can monitor Amazon Q Business using Amazon CloudWatch, which collects data and turns it into easy-to-read metrics in near real-time. These metrics are stored for 15 months, allowing you to access historical data and understand how your web application or service is performing over time. You can also set up alarms to watch for specific thresholds and receive notifications or take actions when they're met.
+
+To use metrics, you must specify the following information:
+
+The following table shows some common uses for the metrics. These are suggestions to get you started, not a comprehensive list.
+
+The following steps show how to access Amazon Q Business metrics using the CloudWatch console.
+
+The following table shows the Chat and conversation management metrics that Amazon Q Business sends to CloudWatch in real time.
+
+The following table shows the Index metrics that Amazon Q Business sends to CloudWatch in real time.
