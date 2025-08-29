@@ -2,7 +2,7 @@ baseURL = 'https://closeroll.eu/'
 languageCode = 'en-us'
 title = 'Close Rol - Tutorials'
 
-paginate = 4
+paginate = 10
 
 [params]
   description = "in CloseRoll Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML , ML , AI and more"
