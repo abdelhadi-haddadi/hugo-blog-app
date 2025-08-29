@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas shadowBlur Tutorial"
-date = 2025-08-27T23:22:02.479+01:00
+date = 2025-08-29T19:49:46.125+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas shadowBlur property effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# Floating-Point Types"
-date = 2025-08-27T23:23:04.283+01:00
+date = 2025-08-29T19:50:47.511+01:00
 draft = false
 description = "Complete guide to C# floating-point types covering float, double, decimal, and their precision characteristics"
 image = ""

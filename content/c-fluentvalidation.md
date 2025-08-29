@@ -1,6 +1,6 @@
 +++
 title = "C# FluentValidation"
-date = 2025-08-27T23:23:05.404+01:00
+date = 2025-08-29T19:50:48.629+01:00
 draft = false
 description = "C# FluentValidation tutorial shows how to validate data in C# using FluentValidation library. The article is a short introduction."
 image = ""

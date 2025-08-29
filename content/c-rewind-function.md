@@ -1,6 +1,6 @@
 +++
 title = "C rewind function"
-date = 2025-08-27T23:22:22.482+01:00
+date = 2025-08-29T19:50:04.998+01:00
 draft = false
 description = "Learn file handling in C with this comprehensive rewind tutorial. Explore practical examples and best practices for resetting file positions."
 image = ""

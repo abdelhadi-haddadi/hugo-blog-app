@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET HtmlHelper"
-date = 2025-08-27T23:21:19.493+01:00
+date = 2025-08-29T19:49:05.341+01:00
 draft = false
 description = "ASP.NET HtmlHelper tutorial shows how to use HtmlHelper in ASP.NET 8 applications with a detailed example."
 image = ""

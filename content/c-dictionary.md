@@ -1,6 +1,6 @@
 +++
 title = "C# Dictionary"
-date = 2025-08-27T23:22:57.437+01:00
+date = 2025-08-29T19:50:40.818+01:00
 draft = false
 description = "C# Dictionary tutorial shows how to work with a Dictionary collection in C#. A dictionary, also called an associative array, is a collection of unique keys and a collection of values, where each key is associated with one value."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# HttpListener"
-date = 2025-08-27T23:23:08.837+01:00
+date = 2025-08-29T19:50:52.031+01:00
 draft = false
 description = "C# HttpListener tutorial shows how to create simple HTTP servers in C#. HttpListener is a simple, programmatically controlled HTTP protocol listener."
 image = ""

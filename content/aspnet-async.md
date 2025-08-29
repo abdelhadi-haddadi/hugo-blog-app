@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET Async"
-date = 2025-08-27T23:21:08.199+01:00
+date = 2025-08-29T19:48:55.247+01:00
 draft = false
 description = "ASP.NET Async tutorial shows how to use Async in ASP.NET 8 applications with a detailed example."
 image = ""

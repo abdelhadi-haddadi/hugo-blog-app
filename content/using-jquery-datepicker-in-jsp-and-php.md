@@ -1,6 +1,6 @@
 +++
 title = "Using jQuery DatePicker in JSP and PHP"
-date = 2025-08-27T23:20:52.145+01:00
+date = 2025-08-29T19:48:42.279+01:00
 draft = false
 description = "In jQuery DatePicker tutorial, we show how to use jQuery DatePicker component. The chosen date is displayed in Java JSP and PHP pages."
 image = "images/picker.png"

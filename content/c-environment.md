@@ -1,6 +1,6 @@
 +++
 title = "C# Environment"
-date = 2025-08-27T23:22:59.662+01:00
+date = 2025-08-29T19:50:43.051+01:00
 draft = false
 description = "C# Environment tutorial shows how to work with environment and platform in C#."
 image = ""

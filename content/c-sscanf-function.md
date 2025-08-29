@@ -1,6 +1,6 @@
 +++
 title = "C sscanf function"
-date = 2025-08-27T23:22:23.607+01:00
+date = 2025-08-29T19:50:06.089+01:00
 draft = false
 description = "Learn string parsing in C with this comprehensive sscanf tutorial. Explore format specifiers, practical examples, and best practices for safe string operations."
 image = ""

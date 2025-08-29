@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas closePath Tutorial"
-date = 2025-08-27T23:21:47.202+01:00
+date = 2025-08-29T19:49:32.838+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas closePath method effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# BigInteger"
-date = 2025-08-27T23:22:45.900+01:00
+date = 2025-08-29T19:50:29.562+01:00
 draft = false
 description = "Learn how to use BigInteger in C# to handle large integer values that exceed built-in types. This C# BigInteger tutorial covers syntax, usage, and real-world examples."
 image = ""

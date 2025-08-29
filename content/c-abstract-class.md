@@ -1,6 +1,6 @@
 +++
 title = "C# abstract class"
-date = 2025-08-27T23:22:41.381+01:00
+date = 2025-08-29T19:50:24.787+01:00
 draft = false
 description = "C# abstract class tutorial shows how to work with abstract classes in C#. An abstract class is an unfinished class which must be implemented in its subclasses."
 image = ""

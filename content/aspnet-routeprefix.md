@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET RoutePrefix"
-date = 2025-08-27T23:21:35.205+01:00
+date = 2025-08-29T19:49:21.569+01:00
 draft = false
 description = "ASP.NET RoutePrefix tutorial shows how to use RoutePrefix in ASP.NET 8 applications with a detailed example."
 image = ""

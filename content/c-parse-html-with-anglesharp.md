@@ -1,6 +1,6 @@
 +++
 title = "C# parse HTML with AngleSharp"
-date = 2025-08-27T23:22:42.478+01:00
+date = 2025-08-29T19:50:26.150+01:00
 draft = false
 description = "C# AngleSharp tutorial shows how to parse HTML in C# with AngleSharp library."
 image = ""

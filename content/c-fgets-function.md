@@ -1,6 +1,6 @@
 +++
 title = "C fgets function"
-date = 2025-08-27T23:22:11.084+01:00
+date = 2025-08-29T19:49:53.927+01:00
 draft = false
 description = "Learn line input in C with this comprehensive fgets tutorial. Explore usage, practical examples, and best practices for safe input operations."
 image = ""

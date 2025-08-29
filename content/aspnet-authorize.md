@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET Authorize"
-date = 2025-08-27T23:21:08.195+01:00
+date = 2025-08-29T19:48:55.263+01:00
 draft = false
 description = "ASP.NET Authorize tutorial shows how to use Authorize in ASP.NET 8 applications with a detailed example."
 image = ""

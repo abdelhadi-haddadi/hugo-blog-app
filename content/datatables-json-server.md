@@ -1,6 +1,6 @@
 +++
 title = "Datatables JSON server"
-date = 2025-08-27T23:20:39.286+01:00
+date = 2025-08-29T19:48:30.901+01:00
 draft = false
 description = "Datatables JSON server tutorial shows how to display data from a JSON server in a Datatables component. In the tutorial we use Gulp to manage files."
 image = "images/datatables.png"

@@ -1,6 +1,6 @@
 +++
 title = "C# HashSet"
-date = 2025-08-27T23:23:07.701+01:00
+date = 2025-08-29T19:50:50.899+01:00
 draft = false
 description = "C# HashSet tutorial shows how to work with a HashSet collection in C#. A HashSet collection represents a set of values."
 image = ""

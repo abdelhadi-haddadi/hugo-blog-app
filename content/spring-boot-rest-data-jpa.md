@@ -1,6 +1,6 @@
 +++
 title = "Spring Boot REST Data JPA"
-date = 2025-08-27T23:20:56.013+01:00
+date = 2025-08-29T19:48:44.660+01:00
 draft = false
 description = "In this tutorial, we show how to create a Spring Boot RESTful application with Data JPA. We use H2 database."
 image = ""

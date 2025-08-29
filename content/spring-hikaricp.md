@@ -1,6 +1,6 @@
 +++
 title = "Spring HikariCP"
-date = 2025-08-27T23:20:58.691+01:00
+date = 2025-08-29T19:48:47.126+01:00
 draft = false
 description = "In this tutorial, we show how to use HikariCP connection pool with a classic Spring application. In the application, we connect to the MySQL database with Spring JdbcTemplate."
 image = "images/application.png"

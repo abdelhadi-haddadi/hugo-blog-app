@@ -1,6 +1,6 @@
 +++
 title = "Java EE MVC Thymeleaf"
-date = 2025-08-27T23:20:46.540+01:00
+date = 2025-08-29T19:48:36.942+01:00
 draft = false
 description = "Java EE MVC Thymeleaf tutorial shows how to use integrame Thymeleaf template engine with Java EE MVC web framework."
 image = ""

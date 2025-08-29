@@ -1,6 +1,6 @@
 +++
 title = "C# constructor"
-date = 2025-08-27T23:22:51.725+01:00
+date = 2025-08-29T19:50:35.236+01:00
 draft = false
 description = "C# constructor tutorial shows how to work with constructors in C# language. A constructor is a method which is called when the object is created."
 image = ""

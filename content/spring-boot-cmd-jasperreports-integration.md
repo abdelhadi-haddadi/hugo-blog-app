@@ -1,6 +1,6 @@
 +++
 title = "Spring Boot cmd JasperReports integration"
-date = 2025-08-27T23:20:42.051+01:00
+date = 2025-08-29T19:48:33.386+01:00
 draft = false
 description = "In this tutorial, we show how to use JasperReports with Spring Boot framework in command line appliction."
 image = ""

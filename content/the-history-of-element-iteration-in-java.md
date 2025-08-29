@@ -1,6 +1,6 @@
 +++
 title = "The history of element iteration in Java"
-date = 2025-08-27T23:20:46.527+01:00
+date = 2025-08-29T19:48:36.926+01:00
 draft = false
 description = "In this tutorial we look at the history of element iteration in Java. From the early days of Java until Java 8."
 image = ""

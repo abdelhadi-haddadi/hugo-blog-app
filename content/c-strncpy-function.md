@@ -1,6 +1,6 @@
 +++
 title = "C strncpy function"
-date = 2025-08-27T23:22:29.201+01:00
+date = 2025-08-29T19:50:11.775+01:00
 draft = false
 description = "Learn string copying in C with this comprehensive strncpy tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

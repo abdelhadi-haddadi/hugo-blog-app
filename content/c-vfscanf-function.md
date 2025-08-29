@@ -1,6 +1,6 @@
 +++
 title = "C vfscanf function"
-date = 2025-08-27T23:22:36.956+01:00
+date = 2025-08-29T19:50:19.622+01:00
 draft = false
 description = "Learn formatted file input in C with this comprehensive vfscanf tutorial. Explore usage, practical examples, and best practices for safe file operations."
 image = ""

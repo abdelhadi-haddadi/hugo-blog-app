@@ -1,6 +1,6 @@
 +++
 title = "C vprintf function"
-date = 2025-08-27T23:22:36.947+01:00
+date = 2025-08-29T19:50:19.629+01:00
 draft = false
 description = "Learn variable argument printing in C with this comprehensive vprintf tutorial. Explore usage, practical examples, and best practices for flexible output operations."
 image = ""

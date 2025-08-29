@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas Save Tutorial"
-date = 2025-08-27T23:22:00.012+01:00
+date = 2025-08-29T19:49:43.927+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas save and restore methods effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

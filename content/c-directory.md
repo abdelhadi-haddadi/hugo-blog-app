@@ -1,6 +1,6 @@
 +++
 title = "C# Directory"
-date = 2025-08-27T23:22:57.431+01:00
+date = 2025-08-29T19:50:40.811+01:00
 draft = false
 description = "Learn how to manage directories in C# with this tutorial. Discover how to create, delete, list directories, and handle permissions using C# file system methods and best practices."
 image = ""

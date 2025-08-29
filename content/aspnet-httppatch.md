@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET HttpPatch"
-date = 2025-08-27T23:21:20.601+01:00
+date = 2025-08-29T19:49:06.416+01:00
 draft = false
 description = "ASP.NET HttpPatch tutorial shows how to use HttpPatch in ASP.NET 8 applications with a detailed example."
 image = ""

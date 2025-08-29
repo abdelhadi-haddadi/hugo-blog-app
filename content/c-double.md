@@ -1,6 +1,6 @@
 +++
 title = "C# double"
-date = 2025-08-27T23:22:58.562+01:00
+date = 2025-08-29T19:50:41.938+01:00
 draft = false
 description = "C# double tutorial shows how to work with double type in C#."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "Using jsGrid component"
-date = 2025-08-27T23:20:52.995+01:00
+date = 2025-08-29T19:48:42.273+01:00
 draft = false
 description = "In this tutorial, we retrieve data from a Derby database and display it in a jsGrid component."
 image = "images/jsgrid.png"

@@ -1,6 +1,6 @@
 +++
 title = "C# basics"
-date = 2025-08-27T23:22:44.763+01:00
+date = 2025-08-29T19:50:28.450+01:00
 draft = false
 description = "C# basics tutorial covers the basics of C# programming. We work with variables, constants and basic data types. We read and write to the console; we mention variable interpolation."
 image = ""

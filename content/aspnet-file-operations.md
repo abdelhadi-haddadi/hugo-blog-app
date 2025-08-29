@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET File Operations"
-date = 2025-08-27T23:21:15.713+01:00
+date = 2025-08-29T19:49:01.931+01:00
 draft = false
 description = "ASP.NET File tutorial shows how to work with files in ASP.NET 8 applications with a detailed example."
 image = ""

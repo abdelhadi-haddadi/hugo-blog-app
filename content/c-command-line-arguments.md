@@ -1,6 +1,6 @@
 +++
 title = "C# command line arguments"
-date = 2025-08-27T23:22:51.728+01:00
+date = 2025-08-29T19:50:35.194+01:00
 draft = false
 description = "C# command line arguments tutorial shows how to work with command line arguments in C#. Command line arguments are values passed to applications usually through the terminal."
 image = ""

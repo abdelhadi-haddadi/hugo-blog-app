@@ -1,6 +1,6 @@
 +++
 title = "C# List Contains & Exists"
-date = 2025-08-27T23:23:17.932+01:00
+date = 2025-08-29T19:51:01.182+01:00
 draft = false
 description = "C# List Contains & Exists tutorial shows how to check if an element or specific elements are in a list in C#."
 image = ""

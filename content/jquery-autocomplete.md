@@ -1,6 +1,6 @@
 +++
 title = "jQuery Autocomplete"
-date = 2025-08-27T23:20:52.254+01:00
+date = 2025-08-29T19:48:42.258+01:00
 draft = false
 description = "In jQuery Autocomplete tutorial, we show how to use the jQuery Autocomplete component. The Autocomplete component displays filtered data from a Java servlet."
 image = "images/autocomplete.png"

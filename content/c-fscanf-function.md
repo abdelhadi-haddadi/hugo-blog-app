@@ -1,6 +1,6 @@
 +++
 title = "C fscanf function"
-date = 2025-08-27T23:22:14.517+01:00
+date = 2025-08-29T19:49:57.183+01:00
 draft = false
 description = "Learn formatted file input in C with this comprehensive fscanf tutorial. Explore usage, practical examples, and best practices for safe file operations."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET OutputCache"
-date = 2025-08-27T23:21:29.585+01:00
+date = 2025-08-29T19:49:15.522+01:00
 draft = false
 description = "ASP.NET OutputCache tutorial shows how to use OutputCache in ASP.NET 8 applications with a detailed example."
 image = ""

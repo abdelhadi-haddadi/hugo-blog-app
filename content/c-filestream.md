@@ -1,6 +1,6 @@
 +++
 title = "C# FileStream"
-date = 2025-08-27T23:23:03.172+01:00
+date = 2025-08-29T19:50:46.400+01:00
 draft = false
 description = "Learn how to read and write files in C# using FileStream with this comprehensive tutorial. Explore practical examples for efficient file handling."
 image = ""

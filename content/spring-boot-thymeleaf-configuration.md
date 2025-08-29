@@ -1,22 +1,23 @@
 +++
 title = "Spring Boot Thymeleaf configuration"
-date = 2025-08-27T23:20:57.415+01:00
+date = 2025-08-29T20:12:36.614+01:00
 draft = false
-description = "Spring Boot Thymeleaf configuration tutorial shows how to configure Thymeleaf with Spring Boot web application."
+description = "Spring Boot Thymeleaf configuration tutorial shows how to configure Thymeleaf in a Spring Boot web application. Thymeleaf is a modern server-side Java template engine for both web and standalone environments."
 image = ""
 imageBig = ""
-categories = ["articles"]
+categories = ["springboot"]
 authors = ["Cude"]
 avatar = "/images/avatar.webp"
 +++
 
 # Spring Boot Thymeleaf configuration
 
-last modified July 13, 2020 
+last modified July 29, 2023
 
-In Spring Boot Thymeleaf configuration tutorial, we are going to show how to configure Thymeleaf with Spring Boot web application.
-When Spring Boot finds Thymeleaf dependency in the Maven POM file, it automatically configures
-Thymeleaf template engine. This tutorial shows how to do in manually in Java configuration.
+In this article we show how to configure Thymeleaf with Spring Boot web
+application. When Spring Boot finds Thymeleaf dependency in the Gradle build
+file, it automatically configures Thymeleaf template engine. This tutorial shows
+how to do it manually with Java configuration.
 
 Spring is a popular Java application framework. 
 Spring Boot is an effort to create stand-alone, production-grade 
@@ -25,15 +26,17 @@ Spring based applications with minimal effort.
 ## Thymeleaf
 
 Thymeleaf is a modern server-side Java template engine for both web 
-and standalone environments. It is built on the he concept of natural templates: 
+and standalone environments. It is built on the concept of natural templates: 
 template files that can be directly opened in browsers and that still display 
 correctly as web pages. 
 
-## Spring Boot Thymeleaf example
+## Spring Boot Thymeleaf configuration example
 
-The following example uses Java configuration to set up Thymeleaf with Spring Boot.
+The following example uses Java configuration to set up Thymeleaf with Spring
+Boot.
 
-pom.xml
+build.gradle
+...
 src
 ├───main
 │   ├───java
@@ -52,69 +55,31 @@ This is the project structure. Thymeleaf template files are located in the
 custom src/main/resources/mytemplates directory. The default
 template directory is src/main/resources/templates.
 
-pom.xml
+build.gradle
   
 
-&lt;?xml version="1.0" encoding="UTF-8"?&gt;
-&lt;project xmlns="http://maven.apache.org/POM/4.0.0"
-            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-            xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
-            http://maven.apache.org/xsd/maven-4.0.0.xsd"&gt;
-    &lt;modelVersion&gt;4.0.0&lt;/modelVersion&gt;
+plugins {
+    id 'org.springframework.boot' version '3.1.1'
+    id 'io.spring.dependency-management' version '1.1.0'
+    id 'java'
+}
 
-    &lt;groupId&gt;com.zetcode&lt;/groupId&gt;
-    &lt;artifactId&gt;thymeleafconfigex&lt;/artifactId&gt;
-    &lt;version&gt;1.0-SNAPSHOT&lt;/version&gt;
+group = 'com.zetcode'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
 
-    &lt;packaging&gt;jar&lt;/packaging&gt;
-    &lt;properties&gt;
-        &lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;
-        &lt;maven.compiler.source&gt;11&lt;/maven.compiler.source&gt;
-        &lt;maven.compiler.target&gt;11&lt;/maven.compiler.target&gt;
-    &lt;/properties&gt;
+repositories {
+    mavenCentral()
+}
 
-    &lt;parent&gt;
-        &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
-        &lt;artifactId&gt;spring-boot-starter-parent&lt;/artifactId&gt;
-        &lt;version&gt;2.1.0.RELEASE&lt;/version&gt;
-    &lt;/parent&gt;
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+}
 
-    &lt;dependencies&gt;
-
-        &lt;dependency&gt;
-            &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
-            &lt;artifactId&gt;spring-boot-devtools&lt;/artifactId&gt;
-            &lt;optional&gt;true&lt;/optional&gt;
-        &lt;/dependency&gt;
-
-        &lt;dependency&gt;
-            &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
-            &lt;artifactId&gt;spring-boot-starter-web&lt;/artifactId&gt;
-            &lt;optional&gt;true&lt;/optional&gt;
-        &lt;/dependency&gt;
-
-        &lt;dependency&gt;
-            &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
-            &lt;artifactId&gt;spring-boot-starter-thymeleaf&lt;/artifactId&gt;
-        &lt;/dependency&gt;
-
-    &lt;/dependencies&gt;
-
-    &lt;build&gt;
-        &lt;plugins&gt;
-            &lt;plugin&gt;
-                &lt;groupId&gt;org.springframework.boot&lt;/groupId&gt;
-                &lt;artifactId&gt;spring-boot-maven-plugin&lt;/artifactId&gt;
-            &lt;/plugin&gt;
-        &lt;/plugins&gt;
-    &lt;/build&gt;
-
-&lt;/project&gt;
-
-This is the Maven build file. The spring-boot-devtools enables hot swapping,
-disables template cache and enables live reloading. The spring-boot-starter-thymeleaf 
-is a starter for building Spring MVC applications with Thymeleaf. The spring-boot-starter-web
-is a starter for web applications.
+This is the build file. The spring-boot-starter-thymeleaf 
+is a starter for building Spring MVC applications with Thymeleaf. The
+spring-boot-starter-web is a starter for web applications.
 
 com/zetcode/config/WebConfig.java
   
@@ -127,8 +92,8 @@ import org.springframework.context.annotation.Description;
 import org.springframework.web.servlet.ViewResolver;
 import org.springframework.web.servlet.config.annotation.ViewControllerRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
-import org.thymeleaf.spring5.SpringTemplateEngine;
-import org.thymeleaf.spring5.view.ThymeleafViewResolver;
+import org.thymeleaf.spring6.SpringTemplateEngine;
+import org.thymeleaf.spring6.view.ThymeleafViewResolver;
 import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 
 @Configuration
@@ -192,8 +157,8 @@ on the classpath.
 
 templateResolver.setPrefix("mytemplates/");
 
-We set the template directory to mytemplates.
-When using ClassLoaderTemplateResolver, there is no classpath:
+We set the template directory to mytemplates. When using
+ClassLoaderTemplateResolver, there is no classpath:
 in the prefix.
 
 templateResolver.setTemplateMode("HTML5");
@@ -255,7 +220,7 @@ resources/templates/index.html
 
 This is a Thymeleaf template file. It displays the current date.
 
-com/zetcodeApplication.java
+com/zetcode/Application.java
   
 
 package com.zetcode;
@@ -274,7 +239,7 @@ public class Application {
 This code sets up the Spring Boot application. The @SpringBootApplication
 enables auto-configuration and component scanning.
 
-$ mvn spring-boot:run
+$ ./gradlew bootRun
 
 We start the application.
 
@@ -288,8 +253,19 @@ $ curl localhost:8080
 &lt;/head&gt;
 &lt;body&gt;
 &lt;p&gt;
-    Today is: 17 Jan 2019 23:46
+    Today is: 21 Jul 2023 17:08
 &lt;/p&gt;
-&lt;/body&gt;    
+&lt;/body&gt;
+&lt;/html&gt;
 
-In this tutorial, we have created a Spring Boot web application with Thymeleaf.
+In this article we have created a Spring Boot web application with Thymeleaf
+template engine. We showed how to configure Thymeleaf.
+
+## Author
+
+My name is Jan Bodnar, and I am a passionate programmer with extensive
+programming experience. I have been writing programming articles since 2007.
+To date, I have authored over 1,400 articles and 8 e-books. I possess more
+than ten years of experience in teaching programming.
+
+List [all Spring Boot tutorials](/springboot/).

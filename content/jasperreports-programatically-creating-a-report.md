@@ -1,6 +1,6 @@
 +++
 title = "JasperReports - programatically creating a report"
-date = 2025-08-27T23:20:40.486+01:00
+date = 2025-08-29T19:48:32.022+01:00
 draft = false
 description = "In this tutorial, we show how to programatically create a report with JasperReports library. The data is fetched from the Derby database."
 image = ""

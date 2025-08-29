@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET Consumes"
-date = 2025-08-27T23:21:12.259+01:00
+date = 2025-08-29T19:48:58.621+01:00
 draft = false
 description = "ASP.NET Consumes tutorial shows how to use Consumes in ASP.NET 8 applications with a detailed example."
 image = ""

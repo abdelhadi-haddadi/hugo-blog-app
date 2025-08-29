@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET query string"
-date = 2025-08-27T23:21:31.797+01:00
+date = 2025-08-29T19:49:17.809+01:00
 draft = false
 description = "ASP.NET query string tutorial shows how to work with query strings in ASP.NET application."
 image = ""

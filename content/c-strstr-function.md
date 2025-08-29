@@ -1,6 +1,6 @@
 +++
 title = "C strstr function"
-date = 2025-08-27T23:22:31.408+01:00
+date = 2025-08-29T19:50:13.999+01:00
 draft = false
 description = "Learn string searching in C with this comprehensive strstr tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

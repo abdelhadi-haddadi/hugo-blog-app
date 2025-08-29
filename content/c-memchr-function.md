@@ -1,6 +1,6 @@
 +++
 title = "C memchr function"
-date = 2025-08-27T23:22:17.963+01:00
+date = 2025-08-29T19:50:00.533+01:00
 draft = false
 description = "Learn memory character searching in C with this comprehensive memchr tutorial. Explore usage, practical examples, and safer alternatives for memory operations."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "Embedded and client/server JavaDB programming"
-date = 2025-08-27T23:20:45.312+01:00
+date = 2025-08-29T19:48:35.826+01:00
 draft = false
 description = "In this tutorial, we create Java applications with JavaDB in embedded and client/server modes."
 image = ""

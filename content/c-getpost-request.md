@@ -1,6 +1,6 @@
 +++
 title = "C# GET/POST request"
-date = 2025-08-27T23:23:06.595+01:00
+date = 2025-08-29T19:50:49.735+01:00
 draft = false
 description = "C# GET/POST request tutorial shows how to send HTTP GET POST requests in C#. We use WebRequest and HttpClient."
 image = ""

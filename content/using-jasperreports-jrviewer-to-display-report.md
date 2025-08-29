@@ -1,6 +1,6 @@
 +++
 title = "Using JasperReports' JRViewer to display report"
-date = 2025-08-27T23:20:43.834+01:00
+date = 2025-08-29T19:48:34.682+01:00
 draft = false
 description = "In this tutorial, we show how to display our report with JRViewer component. The report is shown in a small Swing application."
 image = "images/countries.png"

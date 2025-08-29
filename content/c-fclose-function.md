@@ -1,6 +1,6 @@
 +++
 title = "C fclose function"
-date = 2025-08-27T23:22:08.741+01:00
+date = 2025-08-29T19:49:51.689+01:00
 draft = false
 description = "Learn file handling in C with this comprehensive fclose tutorial. Explore proper file closing techniques, practical examples, and best practices for efficient file operations."
 image = ""

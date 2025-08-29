@@ -1,6 +1,6 @@
 +++
 title = "C# List to String"
-date = 2025-08-27T23:23:20.173+01:00
+date = 2025-08-29T19:51:03.438+01:00
 draft = false
 description = "Learn how to convert a List to a string in C#. This tutorial covers different methods for formatting and joining List elements, including string concatenation and delimiter-based approaches."
 image = ""

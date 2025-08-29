@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET AddMvc"
-date = 2025-08-27T23:21:03.903+01:00
+date = 2025-08-29T19:48:51.824+01:00
 draft = false
 description = "ASP.NET AddMvc tutorial shows how to use AddMvc in ASP.NET 8 applications with a detailed example."
 image = ""

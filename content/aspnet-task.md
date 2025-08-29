@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET Task"
-date = 2025-08-27T23:21:37.493+01:00
+date = 2025-08-29T19:49:23.806+01:00
 draft = false
 description = "ASP.NET Task tutorial shows how to use Task in ASP.NET 8 applications with a detailed example."
 image = ""

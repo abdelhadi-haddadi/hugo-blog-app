@@ -1,6 +1,6 @@
 +++
 title = "C# FileInfo"
-date = 2025-08-27T23:23:03.162+01:00
+date = 2025-08-29T19:50:46.395+01:00
 draft = false
 description = "C# FileInfo tutorial shows how to work with files with FileInfo in C#. FileInfo provides properties and instance methods for the creation, copying, deletion, moving, and opening of files."
 image = ""

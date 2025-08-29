@@ -1,6 +1,6 @@
 +++
 title = "C# check type"
-date = 2025-08-27T23:22:49.356+01:00
+date = 2025-08-29T19:50:32.989+01:00
 draft = false
 description = "C# check type tutorial shows how to check types in C# with typeof and is operators, and the GetType method."
 image = ""

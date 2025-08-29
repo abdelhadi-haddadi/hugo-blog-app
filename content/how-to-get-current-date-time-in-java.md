@@ -1,6 +1,6 @@
 +++
 title = "How to get current date time in Java"
-date = 2025-08-27T23:20:45.296+01:00
+date = 2025-08-29T19:48:35.785+01:00
 draft = false
 description = "Java current date time tutorial shows how to use various Java classes to get current date and time in Java."
 image = ""

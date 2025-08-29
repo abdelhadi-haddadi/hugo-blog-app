@@ -1,6 +1,6 @@
 +++
 title = "C# Heap Sort Algorithm"
-date = 2025-08-27T23:23:07.718+01:00
+date = 2025-08-29T19:50:50.904+01:00
 draft = false
 description = "C# Heap Sort tutorial explains the Heap Sort algorithm with examples for numeric and textual data."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "Learn Programming with ZetCode"
-date = 2025-08-27T23:20:36.755+01:00
+date = 2025-08-29T19:48:29.359+01:00
 draft = false
 description = "Learn programming with ZetCode's accessible tutorials on C#, Go, Python, Java, and JavaScript. Start coding today!"
 image = ""

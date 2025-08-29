@@ -1,6 +1,6 @@
 +++
 title = "C# DateTime format"
-date = 2025-08-27T23:22:55.176+01:00
+date = 2025-08-29T19:50:38.580+01:00
 draft = false
 description = "C# DateTime format tutorial shows how to do formatting of DateTime objects in C#."
 image = ""

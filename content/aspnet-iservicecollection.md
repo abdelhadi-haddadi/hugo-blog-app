@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET IServiceCollection"
-date = 2025-08-27T23:21:25.104+01:00
+date = 2025-08-29T19:49:11.031+01:00
 draft = false
 description = "ASP.NET IServiceCollection tutorial shows how to use dependency injection in ASP.NET 8 applications with a detailed example."
 image = ""

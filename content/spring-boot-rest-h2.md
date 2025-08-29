@@ -1,6 +1,6 @@
 +++
 title = "Spring Boot REST H2"
-date = 2025-08-27T23:20:56.004+01:00
+date = 2025-08-29T19:48:44.654+01:00
 draft = false
 description = "In this article we create a simple Spring Boot RESTful application with H2 database."
 image = ""

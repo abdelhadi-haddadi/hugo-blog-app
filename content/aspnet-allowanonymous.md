@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET AllowAnonymous"
-date = 2025-08-27T23:21:06.812+01:00
+date = 2025-08-29T19:48:54.156+01:00
 draft = false
 description = "ASP.NET AllowAnonymous tutorial shows how to use AllowAnonymous in ASP.NET 8 applications with a detailed example."
 image = ""

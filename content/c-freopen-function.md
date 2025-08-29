@@ -1,6 +1,6 @@
 +++
 title = "C freopen function"
-date = 2025-08-27T23:22:14.520+01:00
+date = 2025-08-29T19:49:57.215+01:00
 draft = false
 description = "Learn stream redirection in C with this comprehensive freopen tutorial. Explore practical examples and best practices for efficient stream operations."
 image = ""

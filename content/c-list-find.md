@@ -1,6 +1,6 @@
 +++
 title = "C# List Find"
-date = 2025-08-27T23:23:19.065+01:00
+date = 2025-08-29T19:51:02.342+01:00
 draft = false
 description = "This C# List Find tutorial demonstrates how to locate elements in a C# List using the Find, FindLast, FindAll, FindIndex, and FindLastIndex methods."
 image = ""

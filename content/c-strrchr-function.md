@@ -1,6 +1,6 @@
 +++
 title = "C strrchr function"
-date = 2025-08-27T23:22:30.300+01:00
+date = 2025-08-29T19:50:12.903+01:00
 draft = false
 description = "Learn string searching in C with this comprehensive strrchr tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

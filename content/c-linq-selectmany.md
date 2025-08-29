@@ -1,6 +1,6 @@
 +++
 title = "C# LINQ SelectMany"
-date = 2025-08-27T23:23:16.815+01:00
+date = 2025-08-29T19:51:00.088+01:00
 draft = false
 description = "C# LINQ SelectMany tutorial shows how to flatten sequences into a single sequence in C#."
 image = ""

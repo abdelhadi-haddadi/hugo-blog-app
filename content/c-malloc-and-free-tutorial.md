@@ -1,6 +1,6 @@
 +++
 title = "C malloc and free Tutorial"
-date = 2025-08-27T23:22:14.532+01:00
+date = 2025-08-29T19:49:57.229+01:00
 draft = false
 description = "C tutorial on dynamic memory allocation using malloc and free, covering their usage, benefits, and practical examples."
 image = ""

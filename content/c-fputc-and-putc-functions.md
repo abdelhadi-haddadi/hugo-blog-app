@@ -1,6 +1,6 @@
 +++
 title = "C fputc and putc functions"
-date = 2025-08-27T23:22:13.423+01:00
+date = 2025-08-29T19:49:56.116+01:00
 draft = false
 description = "Learn character output in C with this comprehensive fputc and putc tutorial. Explore practical examples and best practices for efficient character operations."
 image = ""

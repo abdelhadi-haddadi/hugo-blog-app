@@ -1,6 +1,6 @@
 +++
 title = "C# lexical structure"
-date = 2025-08-27T23:23:13.368+01:00
+date = 2025-08-29T19:50:56.650+01:00
 draft = false
 description = "Discover the lexical structure of C#, including syntax rules, tokens, and fundamental building blocks of the language. Like human languages, programming languages have a defined structure—learn how C# handles lexical elements."
 image = ""

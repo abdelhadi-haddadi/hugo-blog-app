@@ -1,6 +1,6 @@
 +++
 title = "C# Dapper"
-date = 2025-08-27T23:22:54.026+01:00
+date = 2025-08-29T19:50:37.463+01:00
 draft = false
 description = "C# Dapper tutorial shows how to program databases in C# with Dapper. Dapper is a simple object mapper for the .NET platform."
 image = ""

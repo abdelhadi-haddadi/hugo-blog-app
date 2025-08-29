@@ -1,6 +1,6 @@
 +++
 title = "C# LINQ Where"
-date = 2025-08-27T23:23:16.824+01:00
+date = 2025-08-29T19:51:00.095+01:00
 draft = false
 description = "C# LINQ Where tutorial shows how to filter sequences in C# using LINQ's Where method and where clause."
 image = ""

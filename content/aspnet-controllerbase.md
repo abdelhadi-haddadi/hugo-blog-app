@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET ControllerBase"
-date = 2025-08-27T23:21:13.473+01:00
+date = 2025-08-29T19:48:59.708+01:00
 draft = false
 description = "ASP.NET ControllerBase tutorial shows how to use ControllerBase in ASP.NET 8 applications with a detailed example."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# Assert"
-date = 2025-08-27T23:22:43.608+01:00
+date = 2025-08-29T19:50:27.319+01:00
 draft = false
 description = "C# Assert tutorial shows how to use the Assert class for debugging and testing in C#."
 image = ""

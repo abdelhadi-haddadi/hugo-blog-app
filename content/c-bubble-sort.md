@@ -1,6 +1,6 @@
 +++
 title = "C# Bubble Sort"
-date = 2025-08-27T23:22:47.017+01:00
+date = 2025-08-29T19:50:30.754+01:00
 draft = false
 description = "C# Bubble Sort tutorial explains the Bubble Sort algorithm with examples for sorting numeric and textual data."
 image = ""

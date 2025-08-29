@@ -1,6 +1,6 @@
 +++
 title = "C# access modifier"
-date = 2025-08-27T23:22:41.368+01:00
+date = 2025-08-29T19:50:24.771+01:00
 draft = false
 description = "C# access modifier tutorial shows how to control the visibility of methods and member fields in C#."
 image = ""

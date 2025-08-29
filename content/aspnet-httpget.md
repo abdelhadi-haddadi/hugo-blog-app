@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET HttpGet"
-date = 2025-08-27T23:21:20.608+01:00
+date = 2025-08-29T19:49:06.435+01:00
 draft = false
 description = "ASP.NET HttpGet tutorial shows how to use HttpGet in ASP.NET 8 applications with a detailed example."
 image = ""

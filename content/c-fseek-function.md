@@ -1,6 +1,6 @@
 +++
 title = "C fseek function"
-date = 2025-08-27T23:22:15.716+01:00
+date = 2025-08-29T19:49:58.321+01:00
 draft = false
 description = "Learn file positioning in C with this comprehensive fseek tutorial. Explore usage, practical examples, and best practices for efficient file operations."
 image = ""

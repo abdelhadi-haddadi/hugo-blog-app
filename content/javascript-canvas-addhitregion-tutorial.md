@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas addHitRegion Tutorial"
-date = 2025-08-27T23:21:43.651+01:00
+date = 2025-08-29T19:49:29.465+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas addHitRegion method to create interactive canvas elements with examples and detailed explanations."
 image = ""

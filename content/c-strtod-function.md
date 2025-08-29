@@ -1,6 +1,6 @@
 +++
 title = "C strtod function"
-date = 2025-08-27T23:22:31.405+01:00
+date = 2025-08-29T19:50:13.994+01:00
 draft = false
 description = "Learn string to double conversion in C with this comprehensive strtod tutorial. Explore usage, practical examples, and safer alternatives for numeric conversions."
 image = ""

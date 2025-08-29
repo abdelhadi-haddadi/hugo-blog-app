@@ -1,6 +1,6 @@
 +++
 title = "C ungetc function"
-date = 2025-08-27T23:22:35.843+01:00
+date = 2025-08-29T19:50:18.386+01:00
 draft = false
 description = "Learn to use the ungetc function in C with this comprehensive tutorial. Explore practical examples and best practices for character pushback operations."
 image = ""

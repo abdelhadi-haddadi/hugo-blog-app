@@ -1,6 +1,6 @@
 +++
 title = "C getchar function"
-date = 2025-08-27T23:22:16.845+01:00
+date = 2025-08-29T19:49:59.416+01:00
 draft = false
 description = "Learn character input in C with this comprehensive getchar tutorial. Explore usage, practical examples, and best practices for efficient input operations."
 image = ""

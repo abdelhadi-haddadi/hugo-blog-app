@@ -1,6 +1,6 @@
 +++
 title = "C fgetc and getc functions"
-date = 2025-08-27T23:22:09.898+01:00
+date = 2025-08-29T19:49:52.816+01:00
 draft = false
 description = "Learn character input functions in C with this comprehensive fgetc and getc tutorial. Explore differences, practical examples, and best practices for efficient character reading."
 image = ""

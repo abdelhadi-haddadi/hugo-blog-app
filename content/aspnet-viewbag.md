@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET ViewBag"
-date = 2025-08-27T23:21:42.257+01:00
+date = 2025-08-29T19:49:28.315+01:00
 draft = false
 description = "ASP.NET ViewBag tutorial shows how to pass data between controllers and views."
 image = ""

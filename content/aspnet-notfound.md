@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET NotFound"
-date = 2025-08-27T23:21:29.580+01:00
+date = 2025-08-29T19:49:15.528+01:00
 draft = false
 description = "ASP.NET NotFound tutorial shows how to use NotFound in ASP.NET 8 applications with a detailed example."
 image = ""

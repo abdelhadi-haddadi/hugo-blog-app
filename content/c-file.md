@@ -1,6 +1,6 @@
 +++
 title = "C# File"
-date = 2025-08-27T23:23:01.891+01:00
+date = 2025-08-29T19:50:45.277+01:00
 draft = false
 description = "Learn how to work with files in C# programming. This tutorial covers file creation, reading, writing, deleting, and appending operations, helping you master file handling in C# with practical examples."
 image = ""

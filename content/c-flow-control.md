@@ -1,6 +1,6 @@
 +++
 title = "C# flow control"
-date = 2025-08-27T23:23:04.290+01:00
+date = 2025-08-29T19:50:47.526+01:00
 draft = false
 description = "In this article we cover the flow control in C#. We define several keywords that enable us to control the flow of a C# program."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas miterLimit Tutorial"
-date = 2025-08-27T23:21:57.687+01:00
+date = 2025-08-29T19:49:41.719+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas miterLimit property effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

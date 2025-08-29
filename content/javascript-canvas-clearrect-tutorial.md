@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas clearRect Tutorial"
-date = 2025-08-27T23:21:45.908+01:00
+date = 2025-08-29T19:49:31.716+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas clearRect method effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

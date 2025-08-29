@@ -1,6 +1,6 @@
 +++
 title = "C putchar function"
-date = 2025-08-27T23:22:21.322+01:00
+date = 2025-08-29T19:50:03.868+01:00
 draft = false
 description = "Learn character output in C with this comprehensive putchar tutorial. Explore usage, practical examples, and best practices for efficient character output."
 image = ""

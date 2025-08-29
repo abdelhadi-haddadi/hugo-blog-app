@@ -1,6 +1,6 @@
 +++
 title = "C break"
-date = 2025-08-27T23:22:07.648+01:00
+date = 2025-08-29T19:49:50.596+01:00
 draft = false
 description = "C break tutorial shows how to terminate do, for, switch, or while statements in C."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# benchmark"
-date = 2025-08-27T23:22:45.914+01:00
+date = 2025-08-29T19:50:29.566+01:00
 draft = false
 description = "C# benchmark tutorial shows how to benchmark C# code with the BenchmarkDotNet library."
 image = ""

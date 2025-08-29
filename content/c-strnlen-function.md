@@ -1,6 +1,6 @@
 +++
 title = "C strnlen function"
-date = 2025-08-27T23:22:30.305+01:00
+date = 2025-08-29T19:50:12.894+01:00
 draft = false
 description = "Learn safe string length calculation in C with this comprehensive strnlen tutorial. Explore usage, practical examples, and why it's safer than strlen for bounded operations."
 image = ""

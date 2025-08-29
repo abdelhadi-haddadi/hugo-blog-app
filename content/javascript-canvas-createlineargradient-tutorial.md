@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas createLinearGradient Tutorial"
-date = 2025-08-27T23:21:47.187+01:00
+date = 2025-08-29T19:49:32.853+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas createLinearGradient method effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

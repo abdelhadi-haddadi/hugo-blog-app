@@ -1,6 +1,6 @@
 +++
 title = "C ferror function"
-date = 2025-08-27T23:22:10.006+01:00
+date = 2025-08-29T19:49:52.802+01:00
 draft = false
 description = "Learn error handling in C file operations with this comprehensive ferror tutorial. Explore practical examples and best practices for robust file handling."
 image = ""

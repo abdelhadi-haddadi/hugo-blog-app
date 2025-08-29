@@ -1,6 +1,6 @@
 +++
 title = "C Date Time"
-date = 2025-08-27T23:20:38.979+01:00
+date = 2025-08-29T19:48:30.738+01:00
 draft = false
 description = "C Date Time tutorial shows how to work with date and time in C. This tutorial uses C99."
 image = ""

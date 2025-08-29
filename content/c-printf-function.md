@@ -1,6 +1,6 @@
 +++
 title = "C printf function"
-date = 2025-08-27T23:22:21.326+01:00
+date = 2025-08-29T19:50:03.878+01:00
 draft = false
 description = "Learn formatted output in C with this comprehensive printf tutorial. Explore format specifiers, practical examples, and best practices for efficient console output."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C fprintf function"
-date = 2025-08-27T23:22:12.250+01:00
+date = 2025-08-29T19:49:55.005+01:00
 draft = false
 description = "Learn formatted output in C with this comprehensive fprintf tutorial. Explore file and console output, practical examples, and best practices."
 image = ""

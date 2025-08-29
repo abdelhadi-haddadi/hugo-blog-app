@@ -1,6 +1,6 @@
 +++
 title = "Java Servlet serving XML"
-date = 2025-08-27T23:20:49.331+01:00
+date = 2025-08-29T19:48:39.344+01:00
 draft = false
 description = "Java servlet pagination tutorial shows how to do pagination using Java servlets. Bootstrap is used for UI."
 image = ""

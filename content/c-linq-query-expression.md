@@ -1,6 +1,6 @@
 +++
 title = "C# LINQ query expression"
-date = 2025-08-27T23:23:15.723+01:00
+date = 2025-08-29T19:50:58.974+01:00
 draft = false
 description = "C# LINQ query expression tutorial shows how to extract and transform data in C# with queries."
 image = ""

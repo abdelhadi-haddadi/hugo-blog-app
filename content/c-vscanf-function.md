@@ -1,6 +1,6 @@
 +++
 title = "C vscanf function"
-date = 2025-08-27T23:22:38.029+01:00
+date = 2025-08-29T19:50:21.496+01:00
 draft = false
 description = "Learn formatted input in C with this comprehensive vscanf tutorial. Explore usage, practical examples, and best practices for variable argument input."
 image = ""

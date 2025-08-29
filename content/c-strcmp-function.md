@@ -1,6 +1,6 @@
 +++
 title = "C strcmp function"
-date = 2025-08-27T23:22:25.888+01:00
+date = 2025-08-29T19:50:08.443+01:00
 draft = false
 description = "Learn string comparison in C with this comprehensive strcmp tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

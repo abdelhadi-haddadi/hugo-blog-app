@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET AddJsonOptions"
-date = 2025-08-27T23:21:03.891+01:00
+date = 2025-08-29T19:48:51.818+01:00
 draft = false
 description = "ASP.NET AddJsonOptions tutorial shows how to use AddJsonOptions in ASP.NET 8 applications with a detailed example."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# generics"
-date = 2025-08-27T23:23:06.601+01:00
+date = 2025-08-29T19:50:49.749+01:00
 draft = false
 description = "C# generics tutorial shows how to define and use generics in C#. In generic programming, we use custom types as parameters to define other custom types."
 image = ""

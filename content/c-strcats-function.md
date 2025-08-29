@@ -1,6 +1,6 @@
 +++
 title = "C strcat_s function"
-date = 2025-08-27T23:22:24.751+01:00
+date = 2025-08-29T19:50:07.204+01:00
 draft = false
 description = "Learn safe string concatenation in C with this comprehensive strcat_s tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

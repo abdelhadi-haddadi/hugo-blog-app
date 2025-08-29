@@ -1,6 +1,6 @@
 +++
 title = "C# IEnumerable"
-date = 2025-08-27T23:23:09.952+01:00
+date = 2025-08-29T19:50:53.153+01:00
 draft = false
 description = "C# IEnumerable tutorial covers the IEnumerable interface, which is a standard C# interface that enables iterating over collections using foreach loops."
 image = ""

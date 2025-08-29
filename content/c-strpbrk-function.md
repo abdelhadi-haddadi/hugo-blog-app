@@ -1,6 +1,6 @@
 +++
 title = "C strpbrk function"
-date = 2025-08-27T23:22:30.295+01:00
+date = 2025-08-29T19:50:12.882+01:00
 draft = false
 description = "Learn string scanning in C with this comprehensive strpbrk tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

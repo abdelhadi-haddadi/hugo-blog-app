@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas getImageData Tutorial"
-date = 2025-08-27T23:21:52.488+01:00
+date = 2025-08-29T19:49:37.268+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas getImageData method effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

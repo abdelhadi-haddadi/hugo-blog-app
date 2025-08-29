@@ -1,6 +1,6 @@
 +++
 title = "C strtok function"
-date = 2025-08-27T23:22:32.522+01:00
+date = 2025-08-29T19:50:15.091+01:00
 draft = false
 description = "Learn string tokenization in C with this comprehensive strtok tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# closure"
-date = 2025-08-27T23:22:50.450+01:00
+date = 2025-08-29T19:50:34.096+01:00
 draft = false
 description = "C# closure tutorial defines closures and shows how to use them. A closure is an anonymous delegate which maintains access to free variables outside the definition of the block."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET UseRouting"
-date = 2025-08-27T23:21:41.167+01:00
+date = 2025-08-29T19:49:27.171+01:00
 draft = false
 description = "ASP.NET UseRouting tutorial shows how to use UseRouting in ASP.NET 8 applications with a detailed example."
 image = ""

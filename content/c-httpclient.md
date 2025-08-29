@@ -1,6 +1,6 @@
 +++
 title = "C# HttpClient"
-date = 2025-08-27T23:23:07.710+01:00
+date = 2025-08-29T19:50:50.915+01:00
 draft = false
 description = "C# HttpClient tutorial shows how to create HTTP requests with HttpClient in C#. In the examples, we create simple GET, HEAD, and POST requests."
 image = ""

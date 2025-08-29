@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET MapGet"
-date = 2025-08-27T23:21:27.344+01:00
+date = 2025-08-29T19:49:13.283+01:00
 draft = false
 description = "ASP.NET MapGet tutorial shows how to map GET requests to handlers in ASP.NET."
 image = ""

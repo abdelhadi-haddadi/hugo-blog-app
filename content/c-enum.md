@@ -1,6 +1,6 @@
 +++
 title = "C# enum"
-date = 2025-08-27T23:22:59.672+01:00
+date = 2025-08-29T19:50:43.059+01:00
 draft = false
 description = "C# enum tutorial shows how to work with enum type in C# language. Enumeration is a data type consisting of a set of named values."
 image = ""

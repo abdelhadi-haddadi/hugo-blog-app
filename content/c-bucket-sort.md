@@ -1,6 +1,6 @@
 +++
 title = "C# Bucket Sort"
-date = 2025-08-27T23:22:47.008+01:00
+date = 2025-08-29T19:50:30.757+01:00
 draft = false
 description = "C# Bucket Sort tutorial explains the bucket sort algorithm with examples for numeric and textual data, and compares it with Quick Sort."
 image = ""

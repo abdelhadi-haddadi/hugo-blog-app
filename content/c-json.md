@@ -1,6 +1,6 @@
 +++
 title = "C# JSON"
-date = 2025-08-27T23:23:12.252+01:00
+date = 2025-08-29T19:50:55.550+01:00
 draft = false
 description = "Learn how to work with JSON in C# using the System.Text.Json and Json.NET libraries. This tutorial covers JSON serialization, deserialization, and efficient data handling in .NET applications."
 image = ""

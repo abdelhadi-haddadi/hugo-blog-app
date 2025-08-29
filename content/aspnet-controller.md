@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET controller"
-date = 2025-08-27T23:21:12.220+01:00
+date = 2025-08-29T19:48:58.609+01:00
 draft = false
 description = "ASP.NET controller tutorial shows how to work with controllers in ASP.NET application. A controller handles client requests, retrieves model data, and returns a response to the client."
 image = ""

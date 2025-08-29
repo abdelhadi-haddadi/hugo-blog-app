@@ -1,6 +1,6 @@
 +++
 title = "C# Insertion Sort"
-date = 2025-08-27T23:23:11.062+01:00
+date = 2025-08-29T19:50:54.438+01:00
 draft = false
 description = "C# Insertion Sort tutorial explains the Insertion Sort algorithm with examples for numeric and textual data."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "C# array"
-date = 2025-08-27T23:22:43.637+01:00
+date = 2025-08-29T19:50:27.330+01:00
 draft = false
 description = "C# arrays tutorial covers arrays. We initiate arrays and read data from them. We present various array methods."
 image = ""

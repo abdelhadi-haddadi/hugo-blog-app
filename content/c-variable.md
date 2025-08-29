@@ -1,368 +1,356 @@
 +++
-title = "C variable"
-date = 2025-08-27T23:22:35.848+01:00
+title = "C# variable"
+date = 2025-08-29T19:51:35.608+01:00
 draft = false
-description = "C variable tutorial shows how to work with variables in C language. A variable represents a storage location."
+description = "C# variable tutorial shows how to work with variables in C#. A variable represents a storage location."
 image = ""
 imageBig = ""
-categories = ["clang"]
+categories = ["csharp"]
 authors = ["Cude"]
 avatar = "/images/avatar.webp"
 +++
 
-# C variable
+# C# variable
 
-last modified April 10, 2023
+last modified July 5, 2023
 
-In this article we show how to work with variables in C language.
+ 
+
+C# variable tutorial shows how to work with variables in C#.
+[C# tutorial](http://zetcode.com/lang/csharp/) is a comprehensive
+tutorial on C# language.
 
 A *variable* is a storage location. A variable has a name and a data
 type. A data type determines what values can be assigned to the variable, for
 instance integers, strings, or boolean values. Over the time of the program
 variables can obtain various values of the same data type.
 
-int x = 5;
+Variables are always initialized to the default value of their type before any
+reference to the variable can be made.
 
-The x is the variable name. The int is the data type
-that determines what values can the x variable hold. The
-= is an operator that assigns a value on the right side to the
-variable on the left side. The 5 is an integer literal that is
-assigned to x. Finally, the ; is used to end a C
-statement.
+Variable names must adhere to the rules for valid C# identifiers. Variable names
+must start with a letter, or _. They may contain Unicode letter characters,
+decimal digit characters, Unicode connecting characters, Unicode combining
+characters, or Unicode formatting characters. Variable names are case sensitive.
 
-Variable names must adhere to the rules for valid C identifiers. Variable names
-must start with a letter, or _. Otherwise, they can consist of alhphanumeric
-characters. In C, variable names are case sensitive.
+## C# variable example
 
-## C variable example
+In the first example, we define several variables.
 
-In the following example, we define several variables.
-
-simple.c
+Program.cs
   
 
-#include &lt;stdio.h&gt;
+string city = "Berlin";
+string name = "Peter"; int age = 36;
+string nationality = "German";
 
-int main() {
+Console.WriteLine(city);
+Console.WriteLine(name);
+Console.WriteLine(age);
+Console.WriteLine(nationality);
 
-    int x;
-    int y, z;
+city = "London";
+Console.WriteLine(city);
 
-    x = 5;
-    y = 6;
-    z = 7;
+In the example we have four variables.
 
-    float w = 4.5;
-    double h = 5.5;
+string city = "Berlin";
 
-    printf("%d %d %d\n", x, y, z);
-    printf("%f %f\n", w, h);
+We declare a city variable of the string type and
+initialize it to the "New York" value.
 
-    x = 55;
+string name = "Peter"; int age = 36;
 
-    printf("%d\n", x);
-}
+We declare and initialize two more variables. We can put two statements on one
+line. But for readability reasons, each statement should be on a separate line.
 
-In the example we have five variables.
+Console.WriteLine(city);
+Console.WriteLine(name);
+Console.WriteLine(age);
+Console.WriteLine(nationality);
 
-int x;
-int y, z;
+We print the values of the variables to the terminal.
 
-We define three variables. They are of integer data type. It is possible to
-define multiple variables on one line.
+city = "London";
 
-x = 5;
-y = 6;
-z = 7;
+We assign a new value to the city variable.
 
-The x, y, and z variables are initialized
-to their values.
+$ dotnet run
+Berlin
+Peter
+36
+German
+London
 
-float w = 4.5;
-double h = 5.5;
+## C# variable - var keyword
 
-We define and initialize two variables in one go.
+Variables can be implicitly typed using the var
+keyword. The variables are always strongly typed, but with var
+the type is inferred by C# compiler from the right side of the assignment.
 
-printf("%d %d %d\n", x, y, z);
-printf("%f %f\n", w, h);
-
-We print the values of the five variables.
-
-x = 55;
-
-We assign a new value to the x variable.
-
-$ ./simple
-5 6 7
-4.500000 5.500000
-55
-
-## C variable initialization
-
-In the next example, we show several ways of initializing C variables.
-
-init.c
+Program.cs
   
 
-#include &lt;stdio.h&gt;
+var name = "Lucia";
+var age = 27;
 
-int main() {
+Console.WriteLine($"{name} is {age} years old");
 
-    int x, y = 5;
+name = "Robert";
+age = 42;
 
-    printf("x: %d\n", x);
-    printf("y: %d\n", y);
+Console.WriteLine($"{name} is {age} years old");
 
-    int m = 6, n = 7;
+Console.WriteLine(name.GetType());
+Console.WriteLine(age.GetType());
 
-    printf("m: %d\n", m);
-    printf("n: %d\n", n);
+In the example we have two implicitly typed variables.
 
-    int v, w;
+var name = "Peter";
+var age = 23;
 
-    v = w = 8;
-    printf("v: %d\n", v);
-    printf("w: %d\n", w);
-}
+On the left side of the assignment we use the var keyword.
+The name variable is of string type and the
+age of int. The types are inferred from the right side
+of the assignment.
 
-We have six integer variables.
+Console.WriteLine(name.GetType());
+Console.WriteLine(age.GetType());
 
-int x, y = 5;
+We determine the types of the variables with GetType.
 
-In this line, we define two integer variables. The y is assigned
-value 5. 
+$ dotnet run
+Lucia is 27 years old
+Robert is 42 years old
+System.String
+System.Int32
 
-The value of the x variable is undefined; i.e. it depends on the
-compiler being used. In our case, x was assigned 0, but other
-compilers may assign some random values. The best practice is to avoid such 
-definitions and always define variables explicitly.
+## C# local variable
 
-int m = 6, n = 7;
+A local variable is a variable whose scope is within the block in which it is
+declared. Local variables can be defined in functions, try statements, switch
+statements, or for and foreach statements.
 
-This is the way to define and initialize variables in one go.
-
-int v, w;
-
-We define two integers.
-
-v = w = 8;
-
-We assign value 8 to both variables.
-
-$ ./init
-x: 0
-y: 5
-m: 6
-n: 7
-v: 8
-w: 8
-
-## C local variable
-
-A C local variable is defined within the bounds of a function. A local variable
-is only valid in the function where it is defined.
-
-local_var.c
+Program.cs
   
 
-#include &lt;stdio.h&gt;
+Console.WriteLine(Repeat(0, "hey"));
+Console.WriteLine(Repeat());
+Console.WriteLine(Repeat(4));
+Console.WriteLine(Repeat(5, "cau"));
 
-int max(int, int);
+string Repeat(int times = 0, string message = "")
+{
+    int _times = 3;
+    string _message = "hello";
 
-int main() {
+    if (times == 0 &amp;&amp; string.IsNullOrEmpty(message)) {
 
-    int x = 4;
-    int y = 5;
+        return string.Join(" ", Enumerable.Repeat(_message, _times));
+    } else if (times == 0 &amp;&amp; !string.IsNullOrEmpty(message)) {
 
-    printf("%d + %d = %d\n", x, y, x + y);
+        return string.Join(" ", Enumerable.Repeat(message, _times));
+    } else if (times != 0 &amp;&amp; string.IsNullOrEmpty(message)) {
 
-    int _max = max(x, y);
-    printf("%d\n", _max);
+        return string.Join(" ", Enumerable.Repeat(_message, times));
+    } else if (times != 0 &amp;&amp; !string.IsNullOrEmpty(message)) {
+
+        return string.Join(" ", Enumerable.Repeat(message, times));
+    } else {
+
+        return String.Empty;
+    }
 }
 
-int max(int x, int y) {
+In the example, we have defined two local variables: _times and
+_message. They validity is limited by the curly brackets of the
+Repeat function.
 
-    return x &gt; y ? x : y;
-}
+$ dotnet run
+hey hey hey
+hello hello hello
+hello hello hello hello
+cau cau cau cau cau
 
-We have two pairs of x and y variables defined in
-main and max functions. These variables do not clash
-because they are valid only in the bodies of their functions.
+## C# instance variable
 
-$  ./local_var
-4 + 5 = 9
-5
+An instance variable lives within an instance of the created class. It ceases to
+exist when there are no more references to the instance.
 
-## C global variable
+Each instance variable is unique in each created object.
 
-A global variable is a variable that is defined outside a function. It is
-accessible in all functions. Global variables should be used with caution.
-
-global_var.c
+Program.cs
   
 
-#include &lt;stdio.h&gt;
+var u1 = new User { Name = "John Doe", Occupation = "gardener" };
+Console.WriteLine(u1);
 
-void f();
+var u2 = new User { Name = "Roger Roe", Occupation = "accountant" };
+Console.WriteLine(u2);
 
-int x = 10;
+class User
+{
+    public User() {}
 
-int main() {
+    public string Name { set; get; }
+    public string Occupation { set; get; }
 
-    printf("x: %d\n", x);
-    x = 11;
-
-    printf("x: %d\n", x);
-
-    f();
-
-    printf("x: %d\n", x);
+    public override string ToString()
+    {
+        return $"{Name} is a(n) {Occupation}";
+    }
 }
 
-void f() {
+We have the User class, which has two instance variables:
+Name and Occupation. These two variables are distinct
+in the created two instances of the class.
 
-    printf("x: %d\n", x);
-    x = 12;
-    printf("x: %d\n", x);
-}
+$ dotnet run
+John Doe is a(n) gardener
+Roger Roe is a(n) accountant
 
-We have an x global variable defined. We can access it and modify
-it in main and f functions.
+## C# static variable
 
-$ ./global_var
-x: 10
-x: 11
-x: 11
-x: 12
-x: 12
+A static variable value is shared among all instances of the class. Only one
+copy of a static member exists, regardless of how many instances of the class
+are created.
 
-## C static local variable
-
-A static local variable is initialized only once and it retains its value across
-function calls.
-
-static_var.c
+Program.cs
   
 
-#include &lt;stdio.h&gt;
+var counter1 = new Counter();
+counter1.f();
+counter1.f();
+counter1.f();
 
-void f();
+var counter2 = new Counter();
+counter2.f();
+counter2.f();
+counter2.f();
 
-int main() {
+var ret1 = counter1.show();
+var ret2 = counter2.show();
 
-    f();
-    f();
-    f();
-    f();
-    f();
-    f();
+Console.WriteLine(ret1);
+Console.WriteLine(ret2);
+
+class Counter
+{
+    static int count = 0;
+
+    public void f()
+    {
+        count++;
+    }
+
+    public string show() {
+
+        return $"# of calls: {count}";
+    }
 }
 
-void f() {
+We have a count static member variable, defined inside the
+Counter class. The counter is incremented via the f
+method.
 
-    static int n = 0;
-    int c = 0;
+var counter1 = new Counter();
+counter1.f();
+counter1.f();
+counter1.f();
 
-    n++;
-    c++;
+We create a counter object and call the f method three times.
 
-    printf("n: %d, c: %d\n", n, c);
-}
+var counter2 = new Counter();
+counter2.f();
+counter2.f();
+counter2.f();
 
-We have a static n local variable and a normal local c
-variable defined inside the f function. We call the f
-function several times. Each time we call the function, we increment the
-variables.
+We create another counter object and call its f method three times.
 
-$ ./static_var
-n: 1, c: 1
-n: 2, c: 1
-n: 3, c: 1
-n: 4, c: 1
-n: 5, c: 1
-n: 6, c: 1
+$ dotner run
+$ of calls: 6
+$ of calls: 6
 
-While the n variable increases its value, the c
-variable is always 1.
+From the output we can see that both objects share the static count
+variable.
 
-## C variable - function parameters
+## C# variable  - function parameters
 
-Value parameters come into existence upon invocation of a function. It is
+Value parameters come into existence upon invocation of a function, member
+function, or anonymous function to which the parameter belongs. It is
 initialized with the value of the argument given in the invocation.
 
-function_params.c
+Program.cs
   
 
-#include &lt;stdio.h&gt;
+int r = Add(5, 6);
+Console.WriteLine(r);
 
-int add(int, int);
+int r2 = Add(11, 12);
+Console.WriteLine(r2);
 
-int main() {
-
-    printf("%d\n", add(4, 5));
-    printf("%d\n", add(8, 9));
-
-    return 0;
-}
-
-int add(int x, int y) {
+int Add(int x, int y) {
 
     return x + y;
 }
 
-We have two function parameters: x and y. They are
-valid within the bounds of the add function.
+In the example, we have two function parameters: x and
+y. They are valid within the bounds of the Add
+function.
 
-$ ./function_params
-9
-17
+$ dotnet run
+11
+23
 
-## C extern variable
+## C# variable  - function reference parameters
 
-An extern variable means that a variable is defined in a different
-file. The extern keyword  declares a variable; it informs the
-compiler that it exist. But it does not define it; i.e. it does not allocate the
-storage for the variable at that point.
+A parameter declared with a ref modifier is a reference parameter.
+A reference parameter does not create a new storage location; it represents the
+same storage location as the variable given as the argument. 
 
-myfile.h
+Program.cs
   
 
 int x = 5;
 int y = 6;
 
-In the myfile.h file, we define two variables: x and
-y.
+Console.WriteLine(x);
+Console.WriteLine(y);
 
-extern_var.c
-  
+Change(ref x, ref y);
 
-#include &lt;stdio.h&gt;
-#include "myfile.h"
+Console.WriteLine("--------------------");
 
-extern int x;
-extern int y;
+Console.WriteLine(x);
+Console.WriteLine(y);
 
-int main() {
+void Change(ref int x, ref int y) {
 
-    printf("x: %d\n", x);
-    printf("y: %d\n", y);
+    x = 15;
+    y = 16;
 }
 
-In the extern_var.c, we print the x and y
-variables from the header file.
+In the Change function, now new variables are created. References 
+to existing x and y variables are passed instead.
 
-#include "myfile.h"
+$ dotnet run
+5
+6
+--------------------
+15
+16
 
-First, we include the file.
+## Source
 
-extern int x;
-extern int y;
+[Declaration statements - language reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/statements/declarations)
 
-We declare the variables. We tell the compiler that the two variables are
-defined outside the current file.
+In this article we have worked with variables in C#.
 
-$ ./extern_var
-x: 5
-y: 6
+## Author
 
-In this article, we have worked with variables in C language.
+My name is Jan Bodnar, and I am a passionate programmer with extensive
+programming experience. I have been writing programming articles since 2007.
+To date, I have authored over 1,400 articles and 8 e-books. I possess more
+than ten years of experience in teaching programming.
+
+List [all C# tutorials](/csharp/).

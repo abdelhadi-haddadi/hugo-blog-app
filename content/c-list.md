@@ -1,6 +1,6 @@
 +++
 title = "C# List"
-date = 2025-08-27T23:23:17.954+01:00
+date = 2025-08-29T19:51:01.212+01:00
 draft = false
 description = "Learn how to work with the List collection in C#. This tutorial covers List manipulation, indexing, sorting, searching, and common operations for handling data efficiently using .NET collections."
 image = ""

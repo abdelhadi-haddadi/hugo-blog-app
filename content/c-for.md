@@ -1,6 +1,6 @@
 +++
 title = "C for"
-date = 2025-08-27T23:22:12.272+01:00
+date = 2025-08-29T19:49:55.011+01:00
 draft = false
 description = "C for tutorial shows how to create loops in C with for statement. The for statement lets us repeat a statement or several statements a specified number of times."
 image = ""

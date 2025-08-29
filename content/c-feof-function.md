@@ -1,6 +1,6 @@
 +++
 title = "C feof function"
-date = 2025-08-27T23:22:08.732+01:00
+date = 2025-08-29T19:49:51.671+01:00
 draft = false
 description = "Learn to detect end-of-file conditions in C with this comprehensive feof tutorial. Explore practical examples and best practices for file operations."
 image = ""

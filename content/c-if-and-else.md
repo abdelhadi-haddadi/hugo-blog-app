@@ -1,6 +1,6 @@
 +++
 title = "C if & else"
-date = 2025-08-27T23:22:17.959+01:00
+date = 2025-08-29T19:50:00.518+01:00
 draft = false
 description = "C if else tutorial shows how to create conditions and branches in C with if/else statements."
 image = ""

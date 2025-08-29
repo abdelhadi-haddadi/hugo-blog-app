@@ -1,6 +1,6 @@
 +++
 title = "C memmove_s function"
-date = 2025-08-27T23:22:20.225+01:00
+date = 2025-08-29T19:50:02.756+01:00
 draft = false
 description = "Learn safe memory moving in C with this comprehensive memmove_s tutorial. Explore usage, practical examples, and why to prefer it over unsafe alternatives."
 image = ""

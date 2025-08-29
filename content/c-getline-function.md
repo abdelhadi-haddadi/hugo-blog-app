@@ -1,6 +1,6 @@
 +++
 title = "C getline function"
-date = 2025-08-27T23:22:17.974+01:00
+date = 2025-08-29T19:50:00.538+01:00
 draft = false
 description = "Learn line reading in C with this comprehensive getline tutorial. Explore usage, practical examples, and best practices for efficient line-by-line input."
 image = ""

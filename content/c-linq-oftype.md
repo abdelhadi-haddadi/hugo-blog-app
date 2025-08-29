@@ -1,6 +1,6 @@
 +++
 title = "C# LINQ OfType"
-date = 2025-08-27T23:23:15.695+01:00
+date = 2025-08-29T19:50:58.964+01:00
 draft = false
 description = "C# LINQ OfType tutorial shows how to filter elements of enumerables by type using the OfType method."
 image = ""

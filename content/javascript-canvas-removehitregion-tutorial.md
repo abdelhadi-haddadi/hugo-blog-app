@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas removeHitRegion Tutorial"
-date = 2025-08-27T23:21:58.906+01:00
+date = 2025-08-29T19:49:42.806+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas removeHitRegion method effectively with examples. Manage interactive regions on canvas with this detailed tutorial."
 image = ""

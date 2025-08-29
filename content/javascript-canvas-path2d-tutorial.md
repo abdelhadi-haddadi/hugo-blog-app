@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas Path2D Tutorial"
-date = 2025-08-27T23:21:48.378+01:00
+date = 2025-08-29T19:49:33.940+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas Path2D objects effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

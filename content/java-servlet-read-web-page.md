@@ -1,6 +1,6 @@
 +++
 title = "Java Servlet read web page"
-date = 2025-08-27T23:20:49.547+01:00
+date = 2025-08-29T19:48:39.630+01:00
 draft = false
 description = "Java Servlet read web page tutorial shows how to read a web page in a Java Servlet."
 image = "images/javareadwebpage.png"

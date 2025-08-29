@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET ServiceProvider"
-date = 2025-08-27T23:21:36.312+01:00
+date = 2025-08-29T19:49:22.689+01:00
 draft = false
 description = "ASP.NET ServiceProvider tutorial shows how to use dependency injection in ASP.NET 8 applications with a detailed example."
 image = ""

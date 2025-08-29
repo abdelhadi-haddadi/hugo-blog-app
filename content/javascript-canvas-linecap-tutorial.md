@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas lineCap Tutorial"
-date = 2025-08-27T23:21:55.015+01:00
+date = 2025-08-29T19:49:39.489+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas lineCap property effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""

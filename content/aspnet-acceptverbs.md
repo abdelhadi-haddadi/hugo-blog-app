@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET AcceptVerbs"
-date = 2025-08-27T23:21:01.654+01:00
+date = 2025-08-29T19:48:49.586+01:00
 draft = false
 description = "ASP.NET AcceptVerbs tutorial shows how to use AcceptVerbs in ASP.NET 8 applications with a detailed example."
 image = ""

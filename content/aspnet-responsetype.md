@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET ResponseType"
-date = 2025-08-27T23:21:33.990+01:00
+date = 2025-08-29T19:49:20.468+01:00
 draft = false
 description = "ASP.NET ResponseType tutorial shows how to use ResponseType in ASP.NET 8 applications with a detailed example."
 image = ""

@@ -1,6 +1,6 @@
 +++
 title = "JasperReports scriptlets"
-date = 2025-08-27T23:20:42.018+01:00
+date = 2025-08-29T19:48:33.362+01:00
 draft = false
 description = "JasperReports Scriptlets tutorial shows how to use JasperReports scriptlets, which provide some additional functionality to JasperReports."
 image = ""

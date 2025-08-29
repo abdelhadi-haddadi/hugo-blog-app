@@ -1,6 +1,6 @@
 +++
 title = "ASP.NET IConfiguration"
-date = 2025-08-27T23:21:22.910+01:00
+date = 2025-08-29T19:49:08.780+01:00
 draft = false
 description = "ASP.NET IConfiguration tutorial shows how to use IConfiguration in ASP.NET 8 applications with a detailed example."
 image = ""

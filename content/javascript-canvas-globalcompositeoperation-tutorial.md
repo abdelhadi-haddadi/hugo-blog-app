@@ -1,6 +1,6 @@
 +++
 title = "JavaScript Canvas globalCompositeOperation Tutorial"
-date = 2025-08-27T23:21:53.666+01:00
+date = 2025-08-29T19:49:38.375+01:00
 draft = false
 description = "Learn how to use JavaScript Canvas globalCompositeOperation property with examples and detailed explanations. Master canvas compositing techniques."
 image = ""

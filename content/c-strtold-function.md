@@ -1,6 +1,6 @@
 +++
 title = "C strtold function"
-date = 2025-08-27T23:22:33.608+01:00
+date = 2025-08-29T19:50:16.182+01:00
 draft = false
 description = "Learn string to long double conversion in C with this comprehensive strtold tutorial. Explore usage, practical examples, and safer alternatives for numeric conversions."
 image = ""

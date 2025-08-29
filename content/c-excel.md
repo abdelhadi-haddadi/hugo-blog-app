@@ -1,6 +1,6 @@
 +++
 title = "C# Excel"
-date = 2025-08-27T23:22:59.656+01:00
+date = 2025-08-29T19:50:43.056+01:00
 draft = false
 description = "Learn how to read, write, and manipulate Excel files in C# using the ClosedXML library. This tutorial covers essential techniques for handling Excel 2007+ (.xlsx, .xlsm) files with .NET."
 image = ""
