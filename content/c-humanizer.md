@@ -2,9 +2,7 @@
 title = "C# Humanizer"
 date = 2025-08-27T23:23:08.834+01:00
 draft = false
-description = "C# Humanizer tutorial shows how to manipulate
-strings, datetimes, numbers and quantities in order to make them more
-approachable."
+description = "C# Humanizer tutorial shows how to manipulate strings, datetimes, numbers and quantities in order to make them more approachable."
 image = ""
 imageBig = ""
 categories = ["csharp"]

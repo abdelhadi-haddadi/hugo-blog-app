@@ -2,8 +2,7 @@
 title = "C# Base64"
 date = 2025-08-27T23:22:44.791+01:00
 draft = false
-description = "C# Base64 tutorial shows how to encode and
-decode binary data to and from Base64."
+description = "C# Base64 tutorial shows how to encode and decode binary data to and from Base64."
 image = ""
 imageBig = ""
 categories = ["csharp"]

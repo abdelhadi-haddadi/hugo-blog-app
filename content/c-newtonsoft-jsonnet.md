@@ -2,8 +2,7 @@
 title = "C# Newtonsoft Json.NET"
 date = 2025-08-27T23:23:13.357+01:00
 draft = false
-description = "C# Json.NET tutorial shows how to work with
-JSON data using Newtonsoft Json.NET library."
+description = "C# Json.NET tutorial shows how to work with JSON data using Newtonsoft Json.NET library."
 image = ""
 imageBig = ""
 categories = ["csharp"]

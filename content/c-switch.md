@@ -2,10 +2,7 @@
 title = "C switch"
 date = 2025-08-27T23:22:34.730+01:00
 draft = false
-description = "C switch tutorial shows how to control flow in
-C with switch statement. A switch statement is a type of selection control
-used to allow the value of a variable or expression to change the
-control flow of a program."
+description = "C switch tutorial shows how to control flow in C with switch statement. A switch statement is a type of selection control used to allow the value of a variable or expression to change the control flow of a program."
 image = ""
 imageBig = ""
 categories = ["clang"]

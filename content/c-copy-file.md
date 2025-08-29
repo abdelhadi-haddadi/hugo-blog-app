@@ -2,9 +2,7 @@
 title = "C# copy file"
 date = 2025-08-27T23:22:52.824+01:00
 draft = false
-description = "Learn to copy files in C# using File.Copy and
-advanced directory operations. This comprehensive tutorial covers single and
-multiple file copying with practical examples."
+description = "Learn to copy files in C# using File.Copy and advanced directory operations. This comprehensive tutorial covers single and multiple file copying with practical examples."
 image = ""
 imageBig = ""
 categories = ["csharp"]

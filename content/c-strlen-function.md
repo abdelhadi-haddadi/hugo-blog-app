@@ -2,9 +2,7 @@
 title = "C strlen function"
 date = 2025-08-27T23:22:28.106+01:00
 draft = false
-description = "Learn string length operations in C with this
-comprehensive strlen tutorial. Explore usage, practical examples, and safer
-alternatives for string operations."
+description = "Learn string length operations in C with this comprehensive strlen tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

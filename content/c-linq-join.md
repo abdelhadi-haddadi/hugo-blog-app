@@ -2,8 +2,7 @@
 title = "C# LINQ Join"
 date = 2025-08-27T23:23:14.576+01:00
 draft = false
-description = "C# LINQ Join tutorial shows how to do join 
-operations in C# with LINQ."
+description = "C# LINQ Join tutorial shows how to do join operations in C# with LINQ."
 image = ""
 imageBig = ""
 categories = ["csharp"]

@@ -2,8 +2,7 @@
 title = "Reading and writing ICO images in Java"
 date = 2025-08-27T23:20:46.827+01:00
 draft = false
-description = "In this article, we show how to read and write ICO images in Java.
-We convert an ICO image to a PNG image and vice versa."
+description = "In this article, we show how to read and write ICO images in Java. We convert an ICO image to a PNG image and vice versa."
 image = "images/icoimage.png"
 imageBig = "images/icoimage.png"
 categories = ["articles"]

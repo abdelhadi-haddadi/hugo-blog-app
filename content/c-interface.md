@@ -2,9 +2,7 @@
 title = "C# interface"
 date = 2025-08-27T23:23:11.095+01:00
 draft = false
-description = "C# interface tutorial shows how to work with 
-interfaces in C#. An interface defines a contract that must be implemented 
-by classes and structs that extend the interface."
+description = "C# interface tutorial shows how to work with interfaces in C#. An interface defines a contract that must be implemented by classes and structs that extend the interface."
 image = ""
 imageBig = ""
 categories = ["csharp"]

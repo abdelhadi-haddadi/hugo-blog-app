@@ -2,10 +2,7 @@
 title = "C# ArraySegment"
 date = 2025-08-27T23:22:43.603+01:00
 draft = false
-description = "Learn how to use the C# ArraySegment struct 
-for efficient array slicing and manipulation. This tutorial includes detailed 
-explanations, practical examples, and tips for optimizing array operations in 
-C# programming."
+description = "Learn how to use the C# ArraySegment struct for efficient array slicing and manipulation. This tutorial includes detailed explanations, practical examples, and tips for optimizing array operations in C# programming."
 image = ""
 imageBig = ""
 categories = ["csharp"]

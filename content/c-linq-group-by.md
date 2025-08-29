@@ -2,10 +2,7 @@
 title = "C# LINQ group by"
 date = 2025-08-27T23:23:14.457+01:00
 draft = false
-description = "Learn how to group data in C# using LINQ's
-GroupBy functionality. This comprehensive tutorial explores grouping techniques,
-query expressions, and practical examples to master LINQ data manipulation in C#
-programming."
+description = "Learn how to group data in C# using LINQ's GroupBy functionality. This comprehensive tutorial explores grouping techniques, query expressions, and practical examples to master LINQ data manipulation in C# programming."
 image = ""
 imageBig = ""
 categories = ["csharp"]

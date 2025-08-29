@@ -2,9 +2,7 @@
 title = "C# lambda expression"
 date = 2025-08-27T23:23:13.362+01:00
 draft = false
-description = "Learn how to use lambda expressions in C#.
-This tutorial covers lambda syntax, anonymous functions, functional programming
-concepts, and practical examples for using lambda in .NET applications."
+description = "Learn how to use lambda expressions in C#. This tutorial covers lambda syntax, anonymous functions, functional programming concepts, and practical examples for using lambda in .NET applications."
 image = ""
 imageBig = ""
 categories = ["csharp"]

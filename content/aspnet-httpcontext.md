@@ -2,8 +2,7 @@
 title = "ASP.NET HttpContext"
 date = 2025-08-27T23:21:19.484+01:00
 draft = false
-description = "ASP.NET HttpContext tutorial shows how to
-retrieve HTTP data via HttpContext."
+description = "ASP.NET HttpContext tutorial shows how to retrieve HTTP data via HttpContext."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

@@ -2,8 +2,7 @@
 title = "ASP.NET HtmlHelper"
 date = 2025-08-27T23:21:19.493+01:00
 draft = false
-description = "ASP.NET HtmlHelper tutorial shows how to use
-HtmlHelper in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET HtmlHelper tutorial shows how to use HtmlHelper in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

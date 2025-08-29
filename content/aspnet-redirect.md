@@ -2,8 +2,7 @@
 title = "ASP.NET Redirect"
 date = 2025-08-27T23:21:31.768+01:00
 draft = false
-description = "ASP.NET Redirect tutorial shows how to use
-Redirect in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET Redirect tutorial shows how to use Redirect in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

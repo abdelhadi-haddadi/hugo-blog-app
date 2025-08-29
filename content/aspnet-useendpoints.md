@@ -2,8 +2,7 @@
 title = "ASP.NET UseEndpoints"
 date = 2025-08-27T23:21:39.978+01:00
 draft = false
-description = "ASP.NET UseEndpoints tutorial shows how to use
-UseEndpoints in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET UseEndpoints tutorial shows how to use UseEndpoints in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

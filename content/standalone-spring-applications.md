@@ -2,9 +2,7 @@
 title = "Standalone Spring applications"
 date = 2025-08-27T23:21:00.173+01:00
 draft = false
-description = "In this tutorial, we are going to create simple
-Java Spring standalone applications. One application will use an XML file, the other
-one annotations."
+description = "In this tutorial, we are going to create simple Java Spring standalone applications. One application will use an XML file, the other one annotations."
 image = "images/netbeans_project.png"
 imageBig = "images/netbeans_project.png"
 categories = ["articles"]

@@ -2,8 +2,7 @@
 title = "C# Floating-Point Types"
 date = 2025-08-27T23:23:04.283+01:00
 draft = false
-description = "Complete guide to C# floating-point types
-covering float, double, decimal, and their precision characteristics"
+description = "Complete guide to C# floating-point types covering float, double, decimal, and their precision characteristics"
 image = ""
 imageBig = ""
 categories = ["csharp"]

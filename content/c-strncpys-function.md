@@ -2,9 +2,7 @@
 title = "C strncpy_s function"
 date = 2025-08-27T23:22:29.196+01:00
 draft = false
-description = "Learn safe string copying in C with this
-comprehensive strncpy_s tutorial. Explore usage, practical examples, and safer
-alternatives for string operations."
+description = "Learn safe string copying in C with this comprehensive strncpy_s tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

@@ -2,9 +2,7 @@
 title = "C# expression"
 date = 2025-08-27T23:23:00.797+01:00
 draft = false
-description = "Explore C# expressions with this in-depth
-tutorial. Learn lambda, switch, query, and interpolated string expressions
-through practical examples."
+description = "Explore C# expressions with this in-depth tutorial. Learn lambda, switch, query, and interpolated string expressions through practical examples."
 image = ""
 imageBig = ""
 categories = ["csharp"]

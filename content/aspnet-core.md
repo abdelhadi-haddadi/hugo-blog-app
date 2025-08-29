@@ -2,9 +2,7 @@
 title = "ASP.NET Core"
 date = 2025-08-27T23:20:38.933+01:00
 draft = false
-description = "ASP.NET Core tutorial is an introductory tutorial
-to ASP.NET Core framework, which is used to build cross-platform web applications
-in C#."
+description = "ASP.NET Core tutorial is an introductory tutorial to ASP.NET Core framework, which is used to build cross-platform web applications in C#."
 image = "images/aspwebapp.png"
 imageBig = "images/aspwebapp.png"
 categories = ["articles"]

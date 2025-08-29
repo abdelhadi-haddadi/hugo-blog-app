@@ -2,8 +2,7 @@
 title = "ASP.NET NoContent"
 date = 2025-08-27T23:21:28.445+01:00
 draft = false
-description = "ASP.NET NoContent tutorial shows how to use
-NoContent in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET NoContent tutorial shows how to use NoContent in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

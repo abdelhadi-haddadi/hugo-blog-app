@@ -2,9 +2,7 @@
 title = "C# data type"
 date = 2025-08-27T23:22:54.050+01:00
 draft = false
-description = "C# data type tutorial covers data types of the
-C# language. A data type is a set of values and the allowable operations on
-those values."
+description = "C# data type tutorial covers data types of the C# language. A data type is a set of values and the allowable operations on those values."
 image = ""
 imageBig = ""
 categories = ["csharp"]

@@ -2,8 +2,7 @@
 title = "C# Convert"
 date = 2025-08-27T23:23:19.074+01:00
 draft = false
-description = "C# Convert tutorial shows how to convert types
-in C#. The Convert class is located in the System namespace."
+description = "C# Convert tutorial shows how to convert types in C#. The Convert class is located in the System namespace."
 image = ""
 imageBig = ""
 categories = ["csharp"]

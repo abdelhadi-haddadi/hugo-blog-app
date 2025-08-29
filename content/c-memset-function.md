@@ -2,9 +2,7 @@
 title = "C memset function"
 date = 2025-08-27T23:22:20.217+01:00
 draft = false
-description = "Learn memory initialization in C with this
-comprehensive memset tutorial. Explore usage, practical examples, and safer
-alternatives for memory operations."
+description = "Learn memory initialization in C with this comprehensive memset tutorial. Explore usage, practical examples, and safer alternatives for memory operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

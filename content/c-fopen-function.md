@@ -2,9 +2,7 @@
 title = "C fopen function"
 date = 2025-08-27T23:22:12.264+01:00
 draft = false
-description = "Learn file handling in C with this
-comprehensive fopen tutorial. Explore modes, practical examples, and best
-practices for efficient file operations."
+description = "Learn file handling in C with this comprehensive fopen tutorial. Explore modes, practical examples, and best practices for efficient file operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

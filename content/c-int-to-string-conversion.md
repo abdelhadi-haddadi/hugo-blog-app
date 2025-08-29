@@ -2,9 +2,7 @@
 title = "C# int to string conversion"
 date = 2025-08-27T23:23:11.085+01:00
 draft = false
-description = "C# int to String tutorial shows how to convert integers
-to strings. There are several ways to perform int to String conversion in C#. We can use string
-concatenation, string formatting, string building, and use built-in conversion methods."
+description = "C# int to String tutorial shows how to convert integers to strings. There are several ways to perform int to String conversion in C#. We can use string concatenation, string formatting, string building, and use built-in conversion methods."
 image = ""
 imageBig = ""
 categories = ["csharp"]

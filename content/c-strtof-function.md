@@ -2,9 +2,7 @@
 title = "C strtof function"
 date = 2025-08-27T23:22:32.527+01:00
 draft = false
-description = "Learn string to float conversion in C with this
-comprehensive strtof tutorial. Explore usage, practical examples, and safer
-alternatives for string parsing."
+description = "Learn string to float conversion in C with this comprehensive strtof tutorial. Explore usage, practical examples, and safer alternatives for string parsing."
 image = ""
 imageBig = ""
 categories = ["clang"]

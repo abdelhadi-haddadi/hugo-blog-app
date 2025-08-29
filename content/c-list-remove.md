@@ -2,8 +2,7 @@
 title = "C# List Remove"
 date = 2025-08-27T23:23:20.192+01:00
 draft = false
-description = "C# List Remove tutorial shows how to delete
-elements in a list."
+description = "C# List Remove tutorial shows how to delete elements in a list."
 image = ""
 imageBig = ""
 categories = ["csharp"]

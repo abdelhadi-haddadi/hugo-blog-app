@@ -2,8 +2,7 @@
 title = "C# Heap Sort Algorithm"
 date = 2025-08-27T23:23:07.718+01:00
 draft = false
-description = "C# Heap Sort tutorial explains the Heap Sort
-algorithm with examples for numeric and textual data."
+description = "C# Heap Sort tutorial explains the Heap Sort algorithm with examples for numeric and textual data."
 image = ""
 imageBig = ""
 categories = ["csharp"]

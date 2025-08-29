@@ -2,8 +2,7 @@
 title = "Java console application"
 date = 2025-08-27T23:20:45.307+01:00
 draft = false
-description = "Java console application tutorial shows how to 
-create a Java console application. The application computes some statistics."
+description = "Java console application tutorial shows how to create a Java console application. The application computes some statistics."
 image = ""
 imageBig = ""
 categories = ["articles"]

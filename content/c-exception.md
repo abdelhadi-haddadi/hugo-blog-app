@@ -2,9 +2,7 @@
 title = "C# exception"
 date = 2025-08-27T23:23:00.787+01:00
 draft = false
-description = "C# exception tutorial shows how to work with
-exceptions in C#. An exception represents an error that occurs during
-application execution."
+description = "C# exception tutorial shows how to work with exceptions in C#. An exception represents an error that occurs during application execution."
 image = ""
 imageBig = ""
 categories = ["csharp"]

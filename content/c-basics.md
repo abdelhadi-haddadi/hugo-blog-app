@@ -2,9 +2,7 @@
 title = "C# basics"
 date = 2025-08-27T23:22:44.763+01:00
 draft = false
-description = "C# basics tutorial covers the basics of C#
-programming. We work with variables, constants and basic data types. We read and
-write to the console; we mention variable interpolation."
+description = "C# basics tutorial covers the basics of C# programming. We work with variables, constants and basic data types. We read and write to the console; we mention variable interpolation."
 image = ""
 imageBig = ""
 categories = ["csharp"]

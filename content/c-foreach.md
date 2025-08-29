@@ -2,10 +2,7 @@
 title = "C# foreach"
 date = 2025-08-27T23:23:05.392+01:00
 draft = false
-description = "C# foreach tutorial shows how to loop over
-data in C# with foreach statement and forEach method. The foreach statement
-executes a statement or a block of statements for each element in a collection
-which implements IEnumerable."
+description = "C# foreach tutorial shows how to loop over data in C# with foreach statement and forEach method. The foreach statement executes a statement or a block of statements for each element in a collection which implements IEnumerable."
 image = ""
 imageBig = ""
 categories = ["csharp"]

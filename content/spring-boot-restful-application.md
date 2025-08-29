@@ -2,8 +2,7 @@
 title = "Spring Boot RESTFul application"
 date = 2025-08-27T23:20:57.179+01:00
 draft = false
-description = "Spring Boot RESTful application tutorial shows how 
-to create a simple Spring Boot RESTful application."
+description = "Spring Boot RESTful application tutorial shows how to create a simple Spring Boot RESTful application."
 image = ""
 imageBig = ""
 categories = ["articles"]

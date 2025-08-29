@@ -2,9 +2,7 @@
 title = "C clearerr function"
 date = 2025-08-27T23:22:07.644+01:00
 draft = false
-description = "Learn error handling in C file operations with
-this comprehensive clearerr tutorial. Explore practical examples and best
-practices for robust file I/O."
+description = "Learn error handling in C file operations with this comprehensive clearerr tutorial. Explore practical examples and best practices for robust file I/O."
 image = ""
 imageBig = ""
 categories = ["clang"]

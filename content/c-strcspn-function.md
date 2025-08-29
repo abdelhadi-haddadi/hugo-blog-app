@@ -2,9 +2,7 @@
 title = "C strcspn function"
 date = 2025-08-27T23:22:26.974+01:00
 draft = false
-description = "Learn string scanning in C with this
-comprehensive strcspn tutorial. Explore usage, practical examples, and safer
-alternatives for string operations."
+description = "Learn string scanning in C with this comprehensive strcspn tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

@@ -2,9 +2,7 @@
 title = "C# list directory"
 date = 2025-08-27T23:23:20.197+01:00
 draft = false
-description = "C# list directory tutorial show how to list 
-directory contents in C#. We list files and directories and filter output based
-on file name pattern, file extension, file size, or content."
+description = "C# list directory tutorial show how to list directory contents in C#. We list files and directories and filter output based on file name pattern, file extension, file size, or content."
 image = ""
 imageBig = ""
 categories = ["csharp"]

@@ -2,8 +2,7 @@
 title = "ASP.NET AddScoped"
 date = 2025-08-27T23:21:05.216+01:00
 draft = false
-description = "ASP.NET AddScoped tutorial shows how to use
-AddScoped in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET AddScoped tutorial shows how to use AddScoped in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

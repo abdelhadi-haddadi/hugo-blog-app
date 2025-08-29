@@ -2,9 +2,7 @@
 title = "JavaScript Canvas beginPath Tutorial"
 date = 2025-08-27T23:21:44.749+01:00
 draft = false
-description = "Learn how to use JavaScript Canvas beginPath
-method effectively with examples and detailed explanations. Enhance your web
-development skills with this step-by-step tutorial."
+description = "Learn how to use JavaScript Canvas beginPath method effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""
 imageBig = ""
 categories = ["canvas-api"]

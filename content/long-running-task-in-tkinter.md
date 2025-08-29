@@ -2,8 +2,7 @@
 title = "Long-running task in Tkinter"
 date = 2025-08-27T23:21:00.474+01:00
 draft = false
-description = "Long-running task in Tkinter creates 
-a long-running task in Python and Tkinter. The example calculates Pi number."
+description = "Long-running task in Tkinter creates a long-running task in Python and Tkinter. The example calculates Pi number."
 image = "images/calculatepi.png"
 imageBig = "images/calculatepi.png"
 categories = ["articles"]

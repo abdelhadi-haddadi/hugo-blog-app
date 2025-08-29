@@ -2,8 +2,7 @@
 title = "Java Servlet upload file"
 date = 2025-08-27T23:20:49.493+01:00
 draft = false
-description = "Java servlet upload file shows how to upload a file
-in a Java web application using servlet technology."
+description = "Java servlet upload file shows how to upload a file in a Java web application using servlet technology."
 image = ""
 imageBig = ""
 categories = ["articles"]

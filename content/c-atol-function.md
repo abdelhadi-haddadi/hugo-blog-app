@@ -2,9 +2,7 @@
 title = "C atol function"
 date = 2025-08-27T23:22:06.360+01:00
 draft = false
-description = "Learn string to long conversion in C with this
-comprehensive atol tutorial. Explore usage, practical examples, and safer
-alternatives for string conversion."
+description = "Learn string to long conversion in C with this comprehensive atol tutorial. Explore usage, practical examples, and safer alternatives for string conversion."
 image = ""
 imageBig = ""
 categories = ["clang"]

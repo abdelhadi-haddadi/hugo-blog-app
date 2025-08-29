@@ -2,8 +2,7 @@
 title = "C# byte array to hex string"
 date = 2025-08-27T23:22:48.231+01:00
 draft = false
-description = "C# byte array to hex string tutorial shows how
-to convert a byte array to a hexadecimal string."
+description = "C# byte array to hex string tutorial shows how to convert a byte array to a hexadecimal string."
 image = ""
 imageBig = ""
 categories = ["csharp"]

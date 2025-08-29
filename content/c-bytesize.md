@@ -2,8 +2,7 @@
 title = "C# ByteSize"
 date = 2025-08-27T23:22:48.226+01:00
 draft = false
-description = "C# ByteSize tutorial shows how to use ByteSize
-library to work with file sizes in C#."
+description = "C# ByteSize tutorial shows how to use ByteSize library to work with file sizes in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

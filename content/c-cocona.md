@@ -2,8 +2,7 @@
 title = "C# Cocona"
 date = 2025-08-27T23:22:50.481+01:00
 draft = false
-description = "C# Cocona tutorial shows how to create console
-C# applications using the Cocona library."
+description = "C# Cocona tutorial shows how to create console C# applications using the Cocona library."
 image = ""
 imageBig = ""
 categories = ["csharp"]

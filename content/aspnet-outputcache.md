@@ -2,8 +2,7 @@
 title = "ASP.NET OutputCache"
 date = 2025-08-27T23:21:29.585+01:00
 draft = false
-description = "ASP.NET OutputCache tutorial shows how to use
-OutputCache in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET OutputCache tutorial shows how to use OutputCache in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

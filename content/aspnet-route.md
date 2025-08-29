@@ -2,8 +2,7 @@
 title = "ASP.NET Route"
 date = 2025-08-27T23:21:35.203+01:00
 draft = false
-description = "ASP.NET Route tutorial shows how to use
-Route in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET Route tutorial shows how to use Route in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

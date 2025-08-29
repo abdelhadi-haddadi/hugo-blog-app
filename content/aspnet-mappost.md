@@ -2,8 +2,7 @@
 title = "ASP.NET MapPost"
 date = 2025-08-27T23:21:27.342+01:00
 draft = false
-description = "ASP.NET MapPost tutorial shows how to use
-MapPost in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET MapPost tutorial shows how to use MapPost in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

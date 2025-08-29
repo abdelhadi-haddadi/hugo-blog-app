@@ -2,8 +2,7 @@
 title = "C++ string"
 date = 2025-08-27T23:22:40.259+01:00
 draft = false
-description = "C++ string tutorial shows how to work with
-strings in C++. In C++, a string is a sequence of characters."
+description = "C++ string tutorial shows how to work with strings in C++. In C++, a string is a sequence of characters."
 image = ""
 imageBig = ""
 categories = ["cpp"]

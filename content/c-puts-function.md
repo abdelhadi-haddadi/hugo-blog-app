@@ -2,9 +2,7 @@
 title = "C puts function"
 date = 2025-08-27T23:22:21.318+01:00
 draft = false
-description = "Learn console output in C with this
-comprehensive puts tutorial. Explore usage, practical examples, and best
-practices for efficient output operations."
+description = "Learn console output in C with this comprehensive puts tutorial. Explore usage, practical examples, and best practices for efficient output operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

@@ -2,8 +2,7 @@
 title = "JSTL forEach tag"
 date = 2025-08-27T23:20:54.256+01:00
 draft = false
-description = "JSTL forEach tutorial shows how to use the forEach tag from 
-the JSTL library."
+description = "JSTL forEach tutorial shows how to use the forEach tag from the JSTL library."
 image = ""
 imageBig = ""
 categories = ["articles"]

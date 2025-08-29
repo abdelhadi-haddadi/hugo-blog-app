@@ -2,8 +2,7 @@
 title = "Web URL in a Jersey application"
 date = 2025-08-27T23:21:01.657+01:00
 draft = false
-description = "In this tutorial we create a RESTful Java web
-application that inspects the incoming URL. The application uses Jersey."
+description = "In this tutorial we create a RESTful Java web application that inspects the incoming URL. The application uses Jersey."
 image = ""
 imageBig = ""
 categories = ["articles"]

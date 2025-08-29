@@ -2,9 +2,7 @@
 title = "C strtol function"
 date = 2025-08-27T23:22:33.618+01:00
 draft = false
-description = "Learn safe string conversion in C with this
-comprehensive strtol tutorial. Explore usage, practical examples, and safer
-alternatives for string to number conversion."
+description = "Learn safe string conversion in C with this comprehensive strtol tutorial. Explore usage, practical examples, and safer alternatives for string to number conversion."
 image = ""
 imageBig = ""
 categories = ["clang"]

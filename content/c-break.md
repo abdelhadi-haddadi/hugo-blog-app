@@ -2,8 +2,7 @@
 title = "C break"
 date = 2025-08-27T23:22:07.648+01:00
 draft = false
-description = "C break tutorial shows how to terminate do,
-for, switch, or while statements in C."
+description = "C break tutorial shows how to terminate do, for, switch, or while statements in C."
 image = ""
 imageBig = ""
 categories = ["clang"]

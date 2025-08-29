@@ -2,9 +2,7 @@
 title = "C strspn function"
 date = 2025-08-27T23:22:31.413+01:00
 draft = false
-description = "Learn string span operations in C with this
-comprehensive strspn tutorial. Explore usage, practical examples, and safer
-alternatives for string operations."
+description = "Learn string span operations in C with this comprehensive strspn tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

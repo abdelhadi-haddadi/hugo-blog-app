@@ -2,9 +2,7 @@
 title = "Introduction to Spring web applications"
 date = 2025-08-27T23:20:58.689+01:00
 draft = false
-description = "Spring first web application tutorials shows how create simple 
-web applications in Spring. Each of the applications is configured in a different way: with XML, 
-Java config classes, and Spring Boot autoconfiguration."
+description = "Spring first web application tutorials shows how create simple web applications in Spring. Each of the applications is configured in a different way: with XML, Java config classes, and Spring Boot autoconfiguration."
 image = ""
 imageBig = ""
 categories = ["articles"]

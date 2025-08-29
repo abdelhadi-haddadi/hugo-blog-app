@@ -2,8 +2,7 @@
 title = "ASP.NET AddMvc"
 date = 2025-08-27T23:21:03.903+01:00
 draft = false
-description = "ASP.NET AddMvc tutorial shows how to use
-AddMvc in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET AddMvc tutorial shows how to use AddMvc in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

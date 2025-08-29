@@ -2,8 +2,7 @@
 title = "C# Bubble Sort"
 date = 2025-08-27T23:22:47.017+01:00
 draft = false
-description = "C# Bubble Sort tutorial explains the Bubble
-Sort algorithm with examples for sorting numeric and textual data."
+description = "C# Bubble Sort tutorial explains the Bubble Sort algorithm with examples for sorting numeric and textual data."
 image = ""
 imageBig = ""
 categories = ["csharp"]

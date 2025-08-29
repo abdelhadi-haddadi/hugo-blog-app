@@ -2,9 +2,7 @@
 title = "C# CSV - read write CSV data"
 date = 2025-08-27T23:22:52.815+01:00
 draft = false
-description = "C# CSV tutorial shows how to read and write 
-CSV data in C#. CSV (Comma Separated Values) is popular import and export 
-data format used in spreadsheets and databases."
+description = "C# CSV tutorial shows how to read and write CSV data in C#. CSV (Comma Separated Values) is popular import and export data format used in spreadsheets and databases."
 image = ""
 imageBig = ""
 categories = ["csharp"]

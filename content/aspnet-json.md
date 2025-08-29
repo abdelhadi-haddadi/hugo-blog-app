@@ -2,8 +2,7 @@
 title = "ASP.NET JSON"
 date = 2025-08-27T23:21:25.094+01:00
 draft = false
-description = "ASP.NET JSON tutorial shows how to produce and
-consume JSON data in ASP.NET."
+description = "ASP.NET JSON tutorial shows how to produce and consume JSON data in ASP.NET."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

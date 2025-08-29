@@ -2,8 +2,7 @@
 title = "Spring Boot web JasperReports integration"
 date = 2025-08-27T23:20:42.243+01:00
 draft = false
-description = "In this tutorial, we show how to use JasperReports
-with Spring Boot framework in a web application."
+description = "In this tutorial, we show how to use JasperReports with Spring Boot framework in a web application."
 image = ""
 imageBig = ""
 categories = ["articles"]

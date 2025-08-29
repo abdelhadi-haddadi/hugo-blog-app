@@ -2,9 +2,7 @@
 title = "JavaScript Canvas strokeRect Tutorial"
 date = 2025-08-27T23:22:03.596+01:00
 draft = false
-description = "Learn how to use JavaScript Canvas stroke
-methods effectively with examples and detailed explanations. Enhance your web
-development skills with this step-by-step tutorial."
+description = "Learn how to use JavaScript Canvas stroke methods effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""
 imageBig = ""
 categories = ["canvas-api"]

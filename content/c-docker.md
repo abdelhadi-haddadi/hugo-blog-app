@@ -2,9 +2,7 @@
 title = "C# Docker"
 date = 2025-08-27T23:22:58.555+01:00
 draft = false
-description = "C# Docker tutorial shows how to use Docker for
-C# applications. Docker is a platform for developers and sysadmins to build,
-run, and share applications with containers."
+description = "C# Docker tutorial shows how to use Docker for C# applications. Docker is a platform for developers and sysadmins to build, run, and share applications with containers."
 image = ""
 imageBig = ""
 categories = ["csharp"]

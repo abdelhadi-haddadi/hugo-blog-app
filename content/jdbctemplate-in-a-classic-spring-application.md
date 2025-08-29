@@ -2,9 +2,7 @@
 title = "JdbcTemplate in a classic Spring application"
 date = 2025-08-27T23:20:58.571+01:00
 draft = false
-description = "In this tutorial, we show how to 
-create a classic Spring application with JdbcTemplate. The Spring application
-is configured with XML."
+description = "In this tutorial, we show how to create a classic Spring application with JdbcTemplate. The Spring application is configured with XML."
 image = ""
 imageBig = ""
 categories = ["articles"]

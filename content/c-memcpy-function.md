@@ -2,9 +2,7 @@
 title = "C memcpy function"
 date = 2025-08-27T23:22:19.114+01:00
 draft = false
-description = "Learn memory copying in C with this
-comprehensive memcpy tutorial. Explore usage, practical examples, and safer
-alternatives for memory operations."
+description = "Learn memory copying in C with this comprehensive memcpy tutorial. Explore usage, practical examples, and safer alternatives for memory operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

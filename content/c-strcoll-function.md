@@ -2,9 +2,7 @@
 title = "C strcoll function"
 date = 2025-08-27T23:22:25.861+01:00
 draft = false
-description = "Learn locale-aware string comparison in C with this
-comprehensive strcoll tutorial. Explore usage, practical examples, and best practices
-for international string operations."
+description = "Learn locale-aware string comparison in C with this comprehensive strcoll tutorial. Explore usage, practical examples, and best practices for international string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

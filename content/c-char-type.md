@@ -2,8 +2,7 @@
 title = "C# char type"
 date = 2025-08-27T23:22:49.359+01:00
 draft = false
-description = "C# char tutorial shows how to work with
-char type in C#."
+description = "C# char tutorial shows how to work with char type in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

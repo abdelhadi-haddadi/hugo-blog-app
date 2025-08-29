@@ -2,8 +2,7 @@
 title = "C# Calendar"
 date = 2025-08-27T23:22:48.220+01:00
 draft = false
-description = "In this tutorial we show how to work with calendars
-in C#."
+description = "In this tutorial we show how to work with calendars in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

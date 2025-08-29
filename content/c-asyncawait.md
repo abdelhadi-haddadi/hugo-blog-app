@@ -2,9 +2,7 @@
 title = "C# async/await"
 date = 2025-08-27T23:22:44.727+01:00
 draft = false
-description = "C# async/await tutorial shows how to use 
-async await keywords in C#. With asynchronous programming, we can execute tasks
-concurrently with the main program execution."
+description = "C# async/await tutorial shows how to use async await keywords in C#. With asynchronous programming, we can execute tasks concurrently with the main program execution."
 image = ""
 imageBig = ""
 categories = ["csharp"]

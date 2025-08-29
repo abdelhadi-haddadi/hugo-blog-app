@@ -2,9 +2,7 @@
 title = "C# LINQ"
 date = 2025-08-27T23:23:14.570+01:00
 draft = false
-description = "C# LINQ tutorial shows how to use Language
-Integrated Query (LINQ) in C#. LINQ adds native data querying capabilities to
-.NET languages."
+description = "C# LINQ tutorial shows how to use Language Integrated Query (LINQ) in C#. LINQ adds native data querying capabilities to .NET languages."
 image = ""
 imageBig = ""
 categories = ["csharp"]

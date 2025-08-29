@@ -2,8 +2,7 @@
 title = "Reading CSV file from a servlet inside WAR"
 date = 2025-08-27T23:21:01.662+01:00
 draft = false
-description = "In this tutorial we read data from a CSV file
-located in the WEB-INF directory. The tutorial uses Servlet, Opencsv, JSTL, and Jetty."
+description = "In this tutorial we read data from a CSV file located in the WEB-INF directory. The tutorial uses Servlet, Opencsv, JSTL, and Jetty."
 image = ""
 imageBig = ""
 categories = ["articles"]

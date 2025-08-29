@@ -2,8 +2,7 @@
 title = "C# class"
 date = 2025-08-27T23:22:49.372+01:00
 draft = false
-description = "C# class tutorial shows how to organize define 
-classes in C#. A class is a template to create objects."
+description = "C# class tutorial shows how to organize define classes in C#. A class is a template to create objects."
 image = ""
 imageBig = ""
 categories = ["csharp"]

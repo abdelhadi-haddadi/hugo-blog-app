@@ -2,9 +2,7 @@
 title = "C strchr function"
 date = 2025-08-27T23:22:24.731+01:00
 draft = false
-description = "Learn string searching in C with this
-comprehensive strchr tutorial. Explore usage, practical examples, and safer
-alternatives for string operations."
+description = "Learn string searching in C with this comprehensive strchr tutorial. Explore usage, practical examples, and safer alternatives for string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

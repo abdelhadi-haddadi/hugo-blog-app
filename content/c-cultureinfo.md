@@ -2,9 +2,7 @@
 title = "C# CultureInfo"
 date = 2025-08-27T23:22:54.033+01:00
 draft = false
-description = "C# CultureInfo tutorial shows how to globalize
-applications in C# with CultureInfo. CultureInfo provides information about
-a specific culture."
+description = "C# CultureInfo tutorial shows how to globalize applications in C# with CultureInfo. CultureInfo provides information about a specific culture."
 image = ""
 imageBig = ""
 categories = ["csharp"]

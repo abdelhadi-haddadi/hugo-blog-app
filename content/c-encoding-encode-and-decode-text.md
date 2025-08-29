@@ -2,9 +2,7 @@
 title = "C# Encoding - Encode and Decode Text"
 date = 2025-08-27T23:22:58.541+01:00
 draft = false
-description = "Learn C# encoding techniques in this
-comprehensive tutorial. Understand how to encode and decode text using Base64,
-UTF-8, ASCII, and Unicode in C# for efficient data processing."
+description = "Learn C# encoding techniques in this comprehensive tutorial. Understand how to encode and decode text using Base64, UTF-8, ASCII, and Unicode in C# for efficient data processing."
 image = ""
 imageBig = ""
 categories = ["csharp"]

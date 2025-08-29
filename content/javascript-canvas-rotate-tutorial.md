@@ -2,9 +2,7 @@
 title = "JavaScript Canvas Rotate Tutorial"
 date = 2025-08-27T23:22:00.019+01:00
 draft = false
-description = "Learn how to use JavaScript Canvas rotation
-methods effectively with examples and detailed explanations. Enhance your web
-development skills with this step-by-step tutorial."
+description = "Learn how to use JavaScript Canvas rotation methods effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""
 imageBig = ""
 categories = ["canvas-api"]

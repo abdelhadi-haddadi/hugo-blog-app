@@ -2,8 +2,7 @@
 title = "C# access modifier"
 date = 2025-08-27T23:22:41.368+01:00
 draft = false
-description = "C# access modifier tutorial shows how to
-control the visibility of methods and member fields in C#."
+description = "C# access modifier tutorial shows how to control the visibility of methods and member fields in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

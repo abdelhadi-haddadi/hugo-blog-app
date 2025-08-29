@@ -2,8 +2,7 @@
 title = "ASP.NET WebHost"
 date = 2025-08-27T23:21:43.653+01:00
 draft = false
-description = "ASP.NET WebHost tutorial shows how to use
-WebHost in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET WebHost tutorial shows how to use WebHost in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

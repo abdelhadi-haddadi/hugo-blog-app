@@ -2,9 +2,7 @@
 title = "C# Decimal"
 date = 2025-08-27T23:22:56.314+01:00
 draft = false
-description = "C# Decimal tutorial shows how to perform
-high-precision calculation in C# with Decimal. Decimal type represents a decimal 
-floating-point number."
+description = "C# Decimal tutorial shows how to perform high-precision calculation in C# with Decimal. Decimal type represents a decimal floating-point number."
 image = ""
 imageBig = ""
 categories = ["csharp"]

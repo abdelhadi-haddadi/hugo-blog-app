@@ -2,8 +2,7 @@
 title = "Java Servlet Weld"
 date = 2025-08-27T23:20:50.646+01:00
 draft = false
-description = "Java Servlet Weld tutorial shows how to use dependency
-injectinon in a Java Servlet with Weld."
+description = "Java Servlet Weld tutorial shows how to use dependency injectinon in a Java Servlet with Weld."
 image = ""
 imageBig = ""
 categories = ["articles"]

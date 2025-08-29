@@ -2,9 +2,7 @@
 title = "C memcpy_s function"
 date = 2025-08-27T23:22:19.108+01:00
 draft = false
-description = "Learn safe memory copying in C with this
-comprehensive memcpy_s tutorial. Explore usage, practical examples, and best
-practices for secure memory operations."
+description = "Learn safe memory copying in C with this comprehensive memcpy_s tutorial. Explore usage, practical examples, and best practices for secure memory operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

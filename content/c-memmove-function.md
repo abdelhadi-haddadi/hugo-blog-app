@@ -2,9 +2,7 @@
 title = "C memmove function"
 date = 2025-08-27T23:22:20.220+01:00
 draft = false
-description = "Learn memory moving in C with this
-comprehensive memmove tutorial. Explore usage, practical examples, and safe
-memory operations."
+description = "Learn memory moving in C with this comprehensive memmove tutorial. Explore usage, practical examples, and safe memory operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

@@ -2,9 +2,7 @@
 title = "C ftell function"
 date = 2025-08-27T23:22:15.720+01:00
 draft = false
-description = "Learn file position tracking in C with this
-comprehensive ftell tutorial. Explore practical examples and best practices for
-efficient file operations."
+description = "Learn file position tracking in C with this comprehensive ftell tutorial. Explore practical examples and best practices for efficient file operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

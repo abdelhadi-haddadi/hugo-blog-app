@@ -2,9 +2,7 @@
 title = "JavaScript Canvas Radial Gradient Tutorial"
 date = 2025-08-27T23:21:48.295+01:00
 draft = false
-description = "Learn how to use JavaScript Canvas createRadialGradient
-method effectively with examples and detailed explanations. Enhance your web
-development skills with this step-by-step tutorial."
+description = "Learn how to use JavaScript Canvas createRadialGradient method effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""
 imageBig = ""
 categories = ["canvas-api"]

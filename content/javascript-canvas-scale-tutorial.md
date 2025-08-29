@@ -2,9 +2,7 @@
 title = "JavaScript Canvas Scale Tutorial"
 date = 2025-08-27T23:22:01.134+01:00
 draft = false
-description = "Learn how to use JavaScript Canvas scale
-methods effectively with examples and detailed explanations. Enhance your web
-development skills with this step-by-step tutorial."
+description = "Learn how to use JavaScript Canvas scale methods effectively with examples and detailed explanations. Enhance your web development skills with this step-by-step tutorial."
 image = ""
 imageBig = ""
 categories = ["canvas-api"]

@@ -2,8 +2,7 @@
 title = "ASP.NET AddControllers"
 date = 2025-08-27T23:21:03.900+01:00
 draft = false
-description = "ASP.NET AddControllers tutorial shows how to use
-AddControllers in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET AddControllers tutorial shows how to use AddControllers in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

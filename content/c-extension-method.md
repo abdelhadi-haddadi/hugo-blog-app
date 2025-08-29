@@ -2,9 +2,7 @@
 title = "C# extension method"
 date = 2025-08-27T23:23:00.783+01:00
 draft = false
-description = "C# extension method tutorial shows how to
-define and use extension methods in C# language. An extension method is a method
-added to an object after the original object was compiled."
+description = "C# extension method tutorial shows how to define and use extension methods in C# language. An extension method is a method added to an object after the original object was compiled."
 image = ""
 imageBig = ""
 categories = ["csharp"]

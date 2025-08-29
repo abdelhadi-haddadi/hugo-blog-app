@@ -2,8 +2,7 @@
 title = "Spring Boot iText"
 date = 2025-08-27T23:20:54.527+01:00
 draft = false
-description = "In this tutorial, we show how to create
-a PDF report with iText and Spring Boot. The data is retrieved from H2 database."
+description = "In this tutorial, we show how to create a PDF report with iText and Spring Boot. The data is retrieved from H2 database."
 image = ""
 imageBig = ""
 categories = ["articles"]

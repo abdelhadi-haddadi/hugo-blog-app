@@ -2,9 +2,7 @@
 title = "C continue"
 date = 2025-08-27T23:22:08.743+01:00
 draft = false
-description = "C continue tutorial shows how to passing
-iterations of do, for, or while statements in C. Unlike the break statement,
-continue does not terminate the entire loop."
+description = "C continue tutorial shows how to passing iterations of do, for, or while statements in C. Unlike the break statement, continue does not terminate the entire loop."
 image = ""
 imageBig = ""
 categories = ["clang"]

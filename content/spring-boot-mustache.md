@@ -2,8 +2,7 @@
 title = "Spring Boot Mustache"
 date = 2025-08-27T23:20:54.714+01:00
 draft = false
-description = "Spring Boot Mustache tutorial shows how to create
-a simple Spring Boot web application with Mustache template engine and HSQLDB database."
+description = "Spring Boot Mustache tutorial shows how to create a simple Spring Boot web application with Mustache template engine and HSQLDB database."
 image = "images/cars.png"
 imageBig = "images/cars.png"
 categories = ["articles"]

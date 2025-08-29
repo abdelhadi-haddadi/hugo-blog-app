@@ -2,8 +2,7 @@
 title = "ASP.NET ChildActionOnly"
 date = 2025-08-27T23:21:09.501+01:00
 draft = false
-description = "ASP.NET ChildActionOnly tutorial shows how to use
-ChildActionOnly in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET ChildActionOnly tutorial shows how to use ChildActionOnly in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

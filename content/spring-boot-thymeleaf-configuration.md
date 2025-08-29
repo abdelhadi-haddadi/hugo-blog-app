@@ -2,8 +2,7 @@
 title = "Spring Boot Thymeleaf configuration"
 date = 2025-08-27T23:20:57.415+01:00
 draft = false
-description = "Spring Boot Thymeleaf configuration tutorial shows how to
-configure Thymeleaf with Spring Boot web application."
+description = "Spring Boot Thymeleaf configuration tutorial shows how to configure Thymeleaf with Spring Boot web application."
 image = ""
 imageBig = ""
 categories = ["articles"]

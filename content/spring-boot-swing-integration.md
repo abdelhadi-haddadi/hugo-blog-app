@@ -2,8 +2,7 @@
 title = "Spring Boot Swing integration"
 date = 2025-08-27T23:20:57.419+01:00
 draft = false
-description = "In Spring Boot Swing integration tutorial, 
-we are going to combine Spring Boot framework with Swing library."
+description = "In Spring Boot Swing integration tutorial, we are going to combine Spring Boot framework with Swing library."
 image = ""
 imageBig = ""
 categories = ["articles"]

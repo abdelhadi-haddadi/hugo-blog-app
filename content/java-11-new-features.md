@@ -2,8 +2,7 @@
 title = "Java 11 new features"
 date = 2025-08-27T23:20:43.346+01:00
 draft = false
-description = "In this article we cover some new features of Java 11. Java 11 was
-released on 25.9. 2018. "
+description = "In this article we cover some new features of Java 11. Java 11 was released on 25.9. 2018."
 image = ""
 imageBig = ""
 categories = ["articles"]

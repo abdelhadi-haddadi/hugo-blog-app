@@ -2,9 +2,7 @@
 title = "C sprintf function"
 date = 2025-08-27T23:22:23.598+01:00
 draft = false
-description = "Learn string formatting in C with this
-comprehensive sprintf tutorial. Explore practical examples and best practices
-for safe string operations."
+description = "Learn string formatting in C with this comprehensive sprintf tutorial. Explore practical examples and best practices for safe string operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

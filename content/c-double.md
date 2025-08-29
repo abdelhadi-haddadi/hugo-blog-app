@@ -2,8 +2,7 @@
 title = "C# double"
 date = 2025-08-27T23:22:58.562+01:00
 draft = false
-description = "C# double tutorial shows how to work with
-double type in C#."
+description = "C# double tutorial shows how to work with double type in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

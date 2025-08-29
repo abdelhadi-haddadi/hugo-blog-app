@@ -2,8 +2,7 @@
 title = "C# Counting Sort Algorithm"
 date = 2025-08-27T23:22:52.818+01:00
 draft = false
-description = "C# tutorial on the counting sort algorithm
-with examples for numeric and textual data, and a comparison with Quick Sort."
+description = "C# tutorial on the counting sort algorithm with examples for numeric and textual data, and a comparison with Quick Sort."
 image = ""
 imageBig = ""
 categories = ["csharp"]

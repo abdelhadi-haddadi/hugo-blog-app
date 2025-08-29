@@ -2,9 +2,7 @@
 title = "C# FluentValidation"
 date = 2025-08-27T23:23:05.404+01:00
 draft = false
-description = "C# FluentValidation tutorial shows how to
-validate data in C# using FluentValidation library. The article is a short
-introduction."
+description = "C# FluentValidation tutorial shows how to validate data in C# using FluentValidation library. The article is a short introduction."
 image = ""
 imageBig = ""
 categories = ["csharp"]

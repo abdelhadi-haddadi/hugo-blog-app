@@ -2,8 +2,7 @@
 title = "ASP.NET Task"
 date = 2025-08-27T23:21:37.493+01:00
 draft = false
-description = "ASP.NET Task tutorial shows how to use
-Task in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET Task tutorial shows how to use Task in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

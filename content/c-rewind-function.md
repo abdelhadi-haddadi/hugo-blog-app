@@ -2,9 +2,7 @@
 title = "C rewind function"
 date = 2025-08-27T23:22:22.482+01:00
 draft = false
-description = "Learn file handling in C with this
-comprehensive rewind tutorial. Explore practical examples and best practices for
-resetting file positions."
+description = "Learn file handling in C with this comprehensive rewind tutorial. Explore practical examples and best practices for resetting file positions."
 image = ""
 imageBig = ""
 categories = ["clang"]

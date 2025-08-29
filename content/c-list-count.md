@@ -2,8 +2,7 @@
 title = "C# List Count"
 date = 2025-08-27T23:23:19.051+01:00
 draft = false
-description = "C# List Count tutorial shows how to count
-list elements in C#."
+description = "C# List Count tutorial shows how to count list elements in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

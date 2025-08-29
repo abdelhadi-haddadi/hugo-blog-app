@@ -2,9 +2,7 @@
 title = "C scanf function"
 date = 2025-08-27T23:22:22.492+01:00
 draft = false
-description = "Learn input handling in C with this
-comprehensive scanf tutorial. Explore format specifiers, practical examples, and
-best practices for safe input operations."
+description = "Learn input handling in C with this comprehensive scanf tutorial. Explore format specifiers, practical examples, and best practices for safe input operations."
 image = ""
 imageBig = ""
 categories = ["clang"]

@@ -2,8 +2,7 @@
 title = "Java ServletConfig"
 date = 2025-08-27T23:20:48.172+01:00
 draft = false
-description = "Java ServletConfig tutorial shows how to pass initialization data
-to a servlet with ServletConfig."
+description = "Java ServletConfig tutorial shows how to pass initialization data to a servlet with ServletConfig."
 image = ""
 imageBig = ""
 categories = ["articles"]

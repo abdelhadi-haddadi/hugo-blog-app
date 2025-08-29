@@ -2,9 +2,7 @@
 title = "C strtoul function"
 date = 2025-08-27T23:22:34.726+01:00
 draft = false
-description = "Learn string conversion in C with this
-comprehensive strtoul tutorial. Explore usage, practical examples, and safer
-alternatives for string to number conversion."
+description = "Learn string conversion in C with this comprehensive strtoul tutorial. Explore usage, practical examples, and safer alternatives for string to number conversion."
 image = ""
 imageBig = ""
 categories = ["clang"]

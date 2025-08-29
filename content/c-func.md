@@ -2,9 +2,7 @@
 title = "C# Func"
 date = 2025-08-27T23:23:05.498+01:00
 draft = false
-description = "Master the C# Func delegate for functional
-programming. This comprehensive tutorial explores Func usage with lambda
-expressions, LINQ, and advanced examples."
+description = "Master the C# Func delegate for functional programming. This comprehensive tutorial explores Func usage with lambda expressions, LINQ, and advanced examples."
 image = ""
 imageBig = ""
 categories = ["csharp"]

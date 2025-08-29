@@ -2,8 +2,7 @@
 title = "Date and time in C#"
 date = 2025-08-27T23:22:55.187+01:00
 draft = false
-description = "Date and time in C# tutorial shows how to work
-with date and time in CSharp."
+description = "Date and time in C# tutorial shows how to work with date and time in CSharp."
 image = ""
 imageBig = ""
 categories = ["csharp"]

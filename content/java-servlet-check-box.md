@@ -2,9 +2,7 @@
 title = "Java servlet check box"
 date = 2025-08-27T23:20:47.935+01:00
 draft = false
-description = "In this tutorial, we create a classic web 
-application in Java using servlets that reads a value from a HTML check box.
-The web application is deployed on Tomcat server."
+description = "In this tutorial, we create a classic web application in Java using servlets that reads a value from a HTML check box. The web application is deployed on Tomcat server."
 image = ""
 imageBig = ""
 categories = ["articles"]

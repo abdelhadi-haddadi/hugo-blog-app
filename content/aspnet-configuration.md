@@ -2,8 +2,7 @@
 title = "ASP.NET Configuration"
 date = 2025-08-27T23:21:11.094+01:00
 draft = false
-description = "ASP.NET Configuration tutorial shows how to use
-Configuration in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET Configuration tutorial shows how to use Configuration in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

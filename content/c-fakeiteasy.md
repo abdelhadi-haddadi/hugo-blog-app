@@ -2,8 +2,7 @@
 title = "C# FakeItEasy"
 date = 2025-08-27T23:23:01.901+01:00
 draft = false
-description = "C# FakeItEasy tutorial shows how to do mocking
-in C# using the FakeItEasy library."
+description = "C# FakeItEasy tutorial shows how to do mocking in C# using the FakeItEasy library."
 image = ""
 imageBig = ""
 categories = ["csharp"]

@@ -2,8 +2,7 @@
 title = "C# input & output"
 date = 2025-08-27T23:23:09.967+01:00
 draft = false
-description = "Input & output in C# tutorial shows how to
-do input & output operations in C#."
+description = "Input & output in C# tutorial shows how to do input & output operations in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

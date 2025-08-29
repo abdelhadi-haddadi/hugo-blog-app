@@ -2,8 +2,7 @@
 title = "Creating a table with JasperReports library"
 date = 2025-08-27T23:20:43.907+01:00
 draft = false
-description = "In this tutorial, we show how to display
-a table in a report created with JasperReports library."
+description = "In this tutorial, we show how to display a table in a report created with JasperReports library."
 image = "images/jasper_table.png"
 imageBig = "images/jasper_table.png"
 categories = ["articles"]

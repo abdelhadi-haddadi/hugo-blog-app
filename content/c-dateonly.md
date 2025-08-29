@@ -2,8 +2,7 @@
 title = "C# DateOnly"
 date = 2025-08-27T23:22:55.179+01:00
 draft = false
-description = "C# DateOnly tutorial shows how to work with
- DateOnly type in C#."
+description = "C# DateOnly tutorial shows how to work with DateOnly type in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

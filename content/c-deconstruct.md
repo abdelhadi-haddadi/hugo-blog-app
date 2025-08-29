@@ -2,9 +2,7 @@
 title = "C# deconstruct"
 date = 2025-08-27T23:22:56.318+01:00
 draft = false
-description = "Learn how to deconstruct objects, tuples, and
-structs in C#. This tutorial covers unpacking variables efficiently using
-deconstruction techniques in .NET applications."
+description = "Learn how to deconstruct objects, tuples, and structs in C#. This tutorial covers unpacking variables efficiently using deconstruction techniques in .NET applications."
 image = ""
 imageBig = ""
 categories = ["csharp"]

@@ -2,8 +2,7 @@
 title = "C# delegate"
 date = 2025-08-27T23:22:57.448+01:00
 draft = false
-description = "C# delegate tutorial shows how to work with
-delegates in C#. A delegate is a form of type-safe function pointer."
+description = "C# delegate tutorial shows how to work with delegates in C#. A delegate is a form of type-safe function pointer."
 image = ""
 imageBig = ""
 categories = ["csharp"]

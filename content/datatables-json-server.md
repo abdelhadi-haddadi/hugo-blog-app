@@ -2,8 +2,7 @@
 title = "Datatables JSON server"
 date = 2025-08-27T23:20:39.286+01:00
 draft = false
-description = "Datatables JSON server tutorial shows how to display data from a JSON server
-in a Datatables component. In the tutorial we use Gulp to manage files."
+description = "Datatables JSON server tutorial shows how to display data from a JSON server in a Datatables component. In the tutorial we use Gulp to manage files."
 image = "images/datatables.png"
 imageBig = "images/datatables.png"
 categories = ["articles"]

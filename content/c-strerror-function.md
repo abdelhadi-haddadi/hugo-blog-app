@@ -2,9 +2,7 @@
 title = "C strerror function"
 date = 2025-08-27T23:22:26.967+01:00
 draft = false
-description = "Learn error message handling in C with this
-comprehensive strerror tutorial. Explore usage, practical examples, and safer
-alternatives for error reporting."
+description = "Learn error message handling in C with this comprehensive strerror tutorial. Explore usage, practical examples, and safer alternatives for error reporting."
 image = ""
 imageBig = ""
 categories = ["clang"]

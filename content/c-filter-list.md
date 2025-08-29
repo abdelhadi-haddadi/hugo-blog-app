@@ -2,9 +2,7 @@
 title = "C# filter list"
 date = 2025-08-27T23:23:03.134+01:00
 draft = false
-description = "Learn how to filter lists in C# using
-iteration, LINQ queries, and the built-in FindAll and RemoveAll methods. This
-step-by-step tutorial covers efficient list filtering techniques."
+description = "Learn how to filter lists in C# using iteration, LINQ queries, and the built-in FindAll and RemoveAll methods. This step-by-step tutorial covers efficient list filtering techniques."
 image = ""
 imageBig = ""
 categories = ["csharp"]

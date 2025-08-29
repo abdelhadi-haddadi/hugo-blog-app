@@ -2,8 +2,7 @@
 title = "ASP.NET HttpRequest"
 date = 2025-08-27T23:21:21.822+01:00
 draft = false
-description = "ASP.NET HttpRequest tutorial shows how to use
-HttpRequest in ASP.NET application."
+description = "ASP.NET HttpRequest tutorial shows how to use HttpRequest in ASP.NET application."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

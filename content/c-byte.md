@@ -2,8 +2,7 @@
 title = "C# byte"
 date = 2025-08-27T23:22:47.027+01:00
 draft = false
-description = "C# byte tutorial shows how to work with the
-byte type in C#. The byte type is an simple, numeric, value type in C#."
+description = "C# byte tutorial shows how to work with the byte type in C#. The byte type is an simple, numeric, value type in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

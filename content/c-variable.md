@@ -2,8 +2,7 @@
 title = "C variable"
 date = 2025-08-27T23:22:35.848+01:00
 draft = false
-description = "C variable tutorial shows how to work with
-variables in C language. A variable represents a storage location."
+description = "C variable tutorial shows how to work with variables in C language. A variable represents a storage location."
 image = ""
 imageBig = ""
 categories = ["clang"]

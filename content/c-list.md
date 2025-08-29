@@ -2,9 +2,7 @@
 title = "C# List"
 date = 2025-08-27T23:23:17.954+01:00
 draft = false
-description = "Learn how to work with the List collection in
-C#. This tutorial covers List manipulation, indexing, sorting, searching, and
-common operations for handling data efficiently using .NET collections."
+description = "Learn how to work with the List collection in C#. This tutorial covers List manipulation, indexing, sorting, searching, and common operations for handling data efficiently using .NET collections."
 image = ""
 imageBig = ""
 categories = ["csharp"]

@@ -2,8 +2,7 @@
 title = "ASP.NET send image"
 date = 2025-08-27T23:21:36.320+01:00
 draft = false
-description = "ASP.NET send image tutorial shows how to serve 
-images from an ASP.NET application."
+description = "ASP.NET send image tutorial shows how to serve images from an ASP.NET application."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

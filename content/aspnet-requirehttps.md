@@ -2,8 +2,7 @@
 title = "ASP.NET RequireHttps"
 date = 2025-08-27T23:21:32.887+01:00
 draft = false
-description = "ASP.NET RequireHttps tutorial shows how to use
-RequireHttps in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET RequireHttps tutorial shows how to use RequireHttps in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

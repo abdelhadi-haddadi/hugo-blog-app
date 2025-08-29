@@ -2,9 +2,7 @@
 title = "C# ADO.NET"
 date = 2025-08-27T23:22:42.483+01:00
 draft = false
-description = "C# ADO.NET tutorial shows how to do database 
-programming in C# using ADO.NET technology. ADO.NET is a set of classes used 
-for database access."
+description = "C# ADO.NET tutorial shows how to do database programming in C# using ADO.NET technology. ADO.NET is a set of classes used for database access."
 image = ""
 imageBig = ""
 categories = ["csharp"]

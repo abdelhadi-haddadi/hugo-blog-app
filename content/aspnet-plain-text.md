@@ -2,8 +2,7 @@
 title = "ASP.NET plain text"
 date = 2025-08-27T23:21:30.675+01:00
 draft = false
-description = "ASP.NET plain text tutorial shows how to serve
-plain text in ASP.NET application."
+description = "ASP.NET plain text tutorial shows how to serve plain text in ASP.NET application."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

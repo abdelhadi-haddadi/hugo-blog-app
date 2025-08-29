@@ -2,9 +2,7 @@
 title = "C# add string"
 date = 2025-08-27T23:22:42.492+01:00
 draft = false
-description = "C# add strings shows how to concatenate
-strings in C#. There are several ways to add strings in C#, including + 
-operator, string.Format, string.Join, or string interpolation."
+description = "C# add strings shows how to concatenate strings in C#. There are several ways to add strings in C#, including + operator, string.Format, string.Join, or string interpolation."
 image = ""
 imageBig = ""
 categories = ["csharp"]

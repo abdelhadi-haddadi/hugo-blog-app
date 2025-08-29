@@ -2,8 +2,7 @@
 title = "Creating PDF report in Spring Boot"
 date = 2025-08-27T23:20:55.857+01:00
 draft = false
-description = "Spring Boot PDF report tutorial shows 
-how to serve PDF file in Spring Boot RESTful web application."
+description = "Spring Boot PDF report tutorial shows how to serve PDF file in Spring Boot RESTful web application."
 image = ""
 imageBig = ""
 categories = ["articles"]

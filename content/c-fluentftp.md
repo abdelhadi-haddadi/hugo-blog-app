@@ -2,8 +2,7 @@
 title = "C# FluentFTP"
 date = 2025-08-27T23:23:04.268+01:00
 draft = false
-description = "C# FluentFTP tutorial shows how to work with
-FTP in C# using FluentFTP library."
+description = "C# FluentFTP tutorial shows how to work with FTP in C# using FluentFTP library."
 image = ""
 imageBig = ""
 categories = ["csharp"]

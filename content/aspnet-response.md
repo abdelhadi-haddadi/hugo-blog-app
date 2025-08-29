@@ -2,8 +2,7 @@
 title = "ASP.NET Response"
 date = 2025-08-27T23:21:34.108+01:00
 draft = false
-description = "ASP.NET Response tutorial shows how to use
-Response in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET Response tutorial shows how to use Response in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

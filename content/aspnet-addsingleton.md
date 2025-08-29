@@ -2,8 +2,7 @@
 title = "ASP.NET AddSingleton"
 date = 2025-08-27T23:21:05.230+01:00
 draft = false
-description = "ASP.NET AddSingleton tutorial shows how to use
-AddSingleton in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET AddSingleton tutorial shows how to use AddSingleton in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

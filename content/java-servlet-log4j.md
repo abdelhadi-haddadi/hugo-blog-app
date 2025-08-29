@@ -2,8 +2,7 @@
 title = "Java servlet Log4j"
 date = 2025-08-27T23:20:48.168+01:00
 draft = false
-description = "Java servlet Log4j tutorial shows how to 
-do logging with Log4j in Java servlets."
+description = "Java servlet Log4j tutorial shows how to do logging with Log4j in Java servlets."
 image = ""
 imageBig = ""
 categories = ["articles"]

@@ -2,9 +2,7 @@
 title = "C atoi function"
 date = 2025-08-27T23:22:06.363+01:00
 draft = false
-description = "Learn string to integer conversion in C with this
-comprehensive atoi tutorial. Explore usage, practical examples, and safer
-alternatives for string conversion."
+description = "Learn string to integer conversion in C with this comprehensive atoi tutorial. Explore usage, practical examples, and safer alternatives for string conversion."
 image = ""
 imageBig = ""
 categories = ["clang"]

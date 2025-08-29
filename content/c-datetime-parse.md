@@ -2,8 +2,7 @@
 title = "C# DateTime parse"
 date = 2025-08-27T23:22:56.327+01:00
 draft = false
-description = "C# DateTime parse tutorial shows how to convert 
-datetime strings into DateTime objects in C#."
+description = "C# DateTime parse tutorial shows how to convert datetime strings into DateTime objects in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

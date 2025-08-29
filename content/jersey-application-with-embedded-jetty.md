@@ -2,8 +2,7 @@
 title = "Jersey application with embedded Jetty"
 date = 2025-08-27T23:20:50.795+01:00
 draft = false
-description = "In this tutorial, we create a simple Java REST application with
-Jersey and embedded Jetty. We show how to create an uber JAR."
+description = "In this tutorial, we create a simple Java REST application with Jersey and embedded Jetty. We show how to create an uber JAR."
 image = ""
 imageBig = ""
 categories = ["articles"]

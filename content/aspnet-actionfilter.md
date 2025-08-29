@@ -2,8 +2,7 @@
 title = "ASP.NET ActionFilter"
 date = 2025-08-27T23:21:02.783+01:00
 draft = false
-description = "ASP.NET ActionFilter tutorial shows how to use
-ActionFilter in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET ActionFilter tutorial shows how to use ActionFilter in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

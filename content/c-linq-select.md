@@ -2,8 +2,7 @@
 title = "C# LINQ Select"
 date = 2025-08-27T23:23:16.819+01:00
 draft = false
-description = "C# LINQ Select tutorial shows how to map
-elements to an expression in C#."
+description = "C# LINQ Select tutorial shows how to map elements to an expression in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

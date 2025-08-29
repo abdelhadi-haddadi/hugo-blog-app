@@ -2,9 +2,7 @@
 title = "C# IComparer"
 date = 2025-08-27T23:23:09.949+01:00
 draft = false
-description = "C# IComparer tutorial shows how to compare
-values in C# with IComparer interface. IComparer defines a method that a type
-implements to compare two objects."
+description = "C# IComparer tutorial shows how to compare values in C# with IComparer interface. IComparer defines a method that a type implements to compare two objects."
 image = ""
 imageBig = ""
 categories = ["csharp"]

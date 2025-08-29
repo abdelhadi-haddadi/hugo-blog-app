@@ -2,10 +2,7 @@
 title = "Java local variable type inference"
 date = 2025-08-27T23:20:50.787+01:00
 draft = false
-description = "Java local variable type inference tutorial 
-shows the new feature of Java 10 — local variable type inference. 
-Type inference is the ability of a compiler to infer the data type from 
-the right side of an assigment."
+description = "Java local variable type inference tutorial shows the new feature of Java 10 — local variable type inference. Type inference is the ability of a compiler to infer the data type from the right side of an assigment."
 image = ""
 imageBig = ""
 categories = ["articles"]

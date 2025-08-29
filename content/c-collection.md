@@ -2,9 +2,7 @@
 title = "C# collection"
 date = 2025-08-27T23:22:50.551+01:00
 draft = false
-description = "C# collection tutorial shows how to use
-collections in C#, including ArrayList, Dictionary, Queue, and Stack.
-Collections are specialized classes for data storage and retrieval."
+description = "C# collection tutorial shows how to use collections in C#, including ArrayList, Dictionary, Queue, and Stack. Collections are specialized classes for data storage and retrieval."
 image = ""
 imageBig = ""
 categories = ["csharp"]

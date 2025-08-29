@@ -2,8 +2,7 @@
 title = "C Date Time"
 date = 2025-08-27T23:20:38.979+01:00
 draft = false
-description = "C Date Time tutorial shows how to work
-with date and time in C. This tutorial uses C99."
+description = "C Date Time tutorial shows how to work with date and time in C. This tutorial uses C99."
 image = ""
 imageBig = ""
 categories = ["articles"]

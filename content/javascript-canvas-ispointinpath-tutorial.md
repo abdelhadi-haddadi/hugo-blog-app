@@ -2,9 +2,7 @@
 title = "JavaScript Canvas isPointInPath Tutorial"
 date = 2025-08-27T23:21:53.900+01:00
 draft = false
-description = "Learn how to use JavaScript Canvas isPointInPath
-method for hit detection with examples and detailed explanations. Master point-in-path
-detection in this step-by-step tutorial."
+description = "Learn how to use JavaScript Canvas isPointInPath method for hit detection with examples and detailed explanations. Master point-in-path detection in this step-by-step tutorial."
 image = ""
 imageBig = ""
 categories = ["canvas-api"]

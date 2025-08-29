@@ -2,8 +2,7 @@
 title = "ASP.NET ExceptionFilter"
 date = 2025-08-27T23:21:15.709+01:00
 draft = false
-description = "ASP.NET ExceptionFilter tutorial shows how to use
-Exception Filters in ASP.NET 8 applications with a detailed example."
+description = "ASP.NET ExceptionFilter tutorial shows how to use Exception Filters in ASP.NET 8 applications with a detailed example."
 image = ""
 imageBig = ""
 categories = ["asp-net"]

@@ -2,10 +2,7 @@
 title = "C# join string"
 date = 2025-08-27T23:23:12.246+01:00
 draft = false
-description = "C# join string tutorial shows how to join
-strings in C# with string.Join. The string.Join method concatenates the elements
-of a specified array or collection using the provided separator between each
-element."
+description = "C# join string tutorial shows how to join strings in C# with string.Join. The string.Join method concatenates the elements of a specified array or collection using the provided separator between each element."
 image = ""
 imageBig = ""
 categories = ["csharp"]

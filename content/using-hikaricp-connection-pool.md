@@ -2,8 +2,7 @@
 title = "Using HikariCP connection pool"
 date = 2025-08-27T23:20:40.733+01:00
 draft = false
-description = "In this tutorial, we show how to 
-set up HikariCP in a Java console and Spring Boot console applications."
+description = "In this tutorial, we show how to set up HikariCP in a Java console and Spring Boot console applications."
 image = "images/spring_boot_hikaricp.png"
 imageBig = "images/spring_boot_hikaricp.png"
 categories = ["articles"]

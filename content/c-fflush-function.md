@@ -2,9 +2,7 @@
 title = "C fflush function"
 date = 2025-08-27T23:22:09.867+01:00
 draft = false
-description = "Learn about output buffering in C with this
-comprehensive fflush tutorial. Explore practical examples and best practices for
-controlling when data is written to output streams."
+description = "Learn about output buffering in C with this comprehensive fflush tutorial. Explore practical examples and best practices for controlling when data is written to output streams."
 image = ""
 imageBig = ""
 categories = ["clang"]

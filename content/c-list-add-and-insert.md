@@ -2,8 +2,7 @@
 title = "C# List Add & Insert"
 date = 2025-08-27T23:23:17.934+01:00
 draft = false
-description = "C# List Add & Insert tutorial shows how to
-add elements to a list in C#."
+description = "C# List Add & Insert tutorial shows how to add elements to a list in C#."
 image = ""
 imageBig = ""
 categories = ["csharp"]

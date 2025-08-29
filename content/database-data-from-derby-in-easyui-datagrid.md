@@ -2,8 +2,7 @@
 title = "Database data from Derby in EasyUI datagrid"
 date = 2025-08-27T23:20:40.911+01:00
 draft = false
-description = "EasyUI datagrid tutorial shows how to display database
-data from Derby in a EasyUI datagrid component."
+description = "EasyUI datagrid tutorial shows how to display database data from Derby in a EasyUI datagrid component."
 image = "images/datagrid.png"
 imageBig = "images/datagrid.png"
 categories = ["articles"]
