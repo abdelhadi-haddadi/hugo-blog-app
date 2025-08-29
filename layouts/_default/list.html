@@ -1,33 +1,43 @@
 {{ define "main" }}
 <div class="list">
-   {{ range where .Pages "Type" "!=" "static" }}
+   {{ range .Paginator.Pages }}
    <div class="listItem">
-<!--       {{ $imagePath := .Params.image }} 
+      {{ $imagePath := .Params.image }}
       {{ if and $imagePath (fileExists (printf "static/%s" $imagePath)) }}
       <img src="{{ $imagePath }}" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
+      {{ else }}
+      <!-- fallback placeholder -->
+      <img data-src="holder.js/200x200?bg=#4B0082&fg=FFFFFF&text={{ .Title }}&size=20" alt="{{ .Title }}"
+         class="listItemImage" loading="lazy" />
       {{ end }}
- -->
 
-      <img data-src="holder.js/200x200?bg=#4B0082&fg=FFFFFF&text={{.Title}}&size=20" alt="{{ .Title }}" class="listItemImage" loading="lazy" />
       <div class="listItemTexts">
          <h1 class="listItemTitle">
-            <a href="{{.Permalink}}">{{.Title}}</a>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
          </h1>
-         <p class="listItemDesc">{{.Params.description}}</p>
+         <p class="listItemDesc">{{ .Params.description }}</p>
+
          <div class="listItemDetail">
-            <img src="{{.Params.avatar}}" loading="lazy" alt="" class="listItemAvatar"/>
-            <span>{{ range (.GetTerms "authors")}}
-            <a href={{.Permalink}}>{{ .Name }}</a>
-            {{end}}</span>
-            <time>{{ dateFormat .Site.Params.dateFormat  .Date}}</time>
+            {{ with .Params.avatar }}
+            <img src="{{ . }}" loading="lazy" alt="" class="listItemAvatar" />
+            {{ end }}
+            <span>
+               {{ range (.GetTerms "authors") }}
+               <a href="{{ .Permalink }}">{{ .Name }}</a>
+               {{ end }}
+            </span>
+            <time>{{ dateFormat .Site.Params.dateFormat .Date }}</time>
          </div>
+
          <div class="listItemCategories">
             {{ range (.GetTerms "categories") }}
-            <a class="listItemCategory" href={{ .Permalink }}>{{ .Name }}</a>
+            <a class="listItemCategory" href="{{ .Permalink }}">{{ .Name }}</a>
             {{ end }}
          </div>
       </div>
    </div>
-   {{ end }} {{ template "_internal/pagination.html" . }}
+   {{ end }}
+
+   {{ template "_internal/pagination.html" . }}
 </div>
 {{ end }}
