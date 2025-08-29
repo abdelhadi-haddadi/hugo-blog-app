@@ -2,3 +2,8 @@
 <users>
 	<user>B00A1BFBBFE16D42917338108176D5C7</user>
 </users>
+
+
+
+    git config --global user.name "abdelhadi-haddadi"
+    git config --global user.email a8delhadihaddadi@gmail.com
